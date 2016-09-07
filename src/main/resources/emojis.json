@@ -1,5 +1,17 @@
 [
   {
+    "emoji": "😄",
+    "description": "smiling face with open mouth and smiling eyes",
+    "aliases": [
+      "smile"
+    ],
+    "tags": [
+      "happy",
+      "joy",
+      "pleased"
+    ]
+  },
+  {
     "emoji": "",
     "description": "",
     "aliases": ["mr", "flag_mr"],
