@@ -1,7 +1,7 @@
 [{
   "emoji": "🇲🇷",
   "description": "",
-  "aliases": ["mr", "flag_mr"],
+  "aliases": ["flag_mr", "mr"],
   "tags": ["mauritania", "country", "flag", "flag"]
 }, {
   "emoji": "✍🏻",
@@ -31,7 +31,7 @@
 }, {
   "emoji": "😆",
   "description": "",
-  "aliases": ["satisfied", "laughing"],
+  "aliases": ["laughing", "satisfied"],
   "tags": ["smiling", "face", "with", "open", "mouth", "and", "tightly-closed", "eyes", "happy", "smiley", "laugh", "laugh", "emotion", "emotion"]
 }, {
   "emoji": "🙌",
@@ -41,7 +41,7 @@
 }, {
   "emoji": "🤜🏾",
   "description": "",
-  "aliases": ["right_fist_tone4", "right_facing_fist_tone4"],
+  "aliases": ["right_facing_fist_tone4", "right_fist_tone4"],
   "tags": ["right", "facing", "fist", "tone", "4"]
 }, {
   "emoji": "💟",
@@ -56,12 +56,12 @@
 }, {
   "emoji": "🖖🏼",
   "description": "",
-  "aliases": ["raised_hand_with_part_between_middle_and_ring_fingers_tone2", "vulcan_tone2"],
+  "aliases": ["vulcan_tone2", "raised_hand_with_part_between_middle_and_ring_fingers_tone2"],
   "tags": ["raised", "hand", "with", "part", "between", "middle", "and", "ring", "fingers", "tone", "2"]
 }, {
   "emoji": "🥗",
   "description": "",
-  "aliases": ["green_salad", "salad"],
+  "aliases": ["salad", "green_salad"],
   "tags": ["green", "salad"]
 }, {
   "emoji": "⏫",
@@ -71,12 +71,12 @@
 }, {
   "emoji": "🏔",
   "description": "",
-  "aliases": ["snow_capped_mountain", "mountain_snow"],
+  "aliases": ["mountain_snow", "snow_capped_mountain"],
   "tags": ["snow", "capped", "mountain", "places", "travel", "vacation", "cold", "camp"]
 }, {
   "emoji": "🇸🇬",
   "description": "",
-  "aliases": ["sg", "flag_sg"],
+  "aliases": ["flag_sg", "sg"],
   "tags": ["singapore", "country", "flag", "flag"]
 }, {
   "emoji": "〰",
@@ -91,7 +91,7 @@
 }, {
   "emoji": "🇨🇳",
   "description": "",
-  "aliases": ["cn", "flag_cn"],
+  "aliases": ["flag_cn", "cn"],
   "tags": ["china", "country", "flag", "flag"]
 }, {
   "emoji": "👲",
@@ -106,7 +106,7 @@
 }, {
   "emoji": "🇲🇦",
   "description": "",
-  "aliases": ["ma", "flag_ma"],
+  "aliases": ["flag_ma", "ma"],
   "tags": ["morocco", "country", "flag", "flag"]
 }, {
   "emoji": "👊🏽",
@@ -161,7 +161,7 @@
 }, {
   "emoji": "🏋🏿",
   "description": "",
-  "aliases": ["weight_lifter_tone5", "lifter_tone5"],
+  "aliases": ["lifter_tone5", "weight_lifter_tone5"],
   "tags": ["weight", "lifter", "tone", "5"]
 }, {
   "emoji": "⬅",
@@ -186,17 +186,17 @@
 }, {
   "emoji": "🇳🇫",
   "description": "",
-  "aliases": ["nf", "flag_nf"],
+  "aliases": ["flag_nf", "nf"],
   "tags": ["norfolk", "island", "country", "flag", "flag"]
 }, {
   "emoji": "🏘",
   "description": "",
-  "aliases": ["house_buildings", "homes"],
+  "aliases": ["homes", "house_buildings"],
   "tags": ["house", "buildings", "places", "building", "house"]
 }, {
   "emoji": "👨❤👨",
   "description": "",
-  "aliases": ["couple_with_heart_mm", "couple_mm"],
+  "aliases": ["couple_mm", "couple_with_heart_mm"],
   "tags": ["couple", "(man,man)", "people", "gay", "men", "love", "sex", "lgbt", "lgbt"]
 }, {
   "emoji": "🚿",
@@ -216,17 +216,17 @@
 }, {
   "emoji": "🇧🇬",
   "description": "",
-  "aliases": ["bg", "flag_bg"],
+  "aliases": ["flag_bg", "bg"],
   "tags": ["bulgaria", "country", "flag", "flag"]
 }, {
   "emoji": "🇴🇲",
   "description": "",
-  "aliases": ["om", "flag_om"],
+  "aliases": ["flag_om", "om"],
   "tags": ["oman", "country", "flag", "flag"]
 }, {
   "emoji": "🇮🇩",
   "description": "",
-  "aliases": ["indonesia", "flag_id"],
+  "aliases": ["flag_id", "indonesia"],
   "tags": ["indonesia", "country", "flag", "flag"]
 }, {
   "emoji": "©",
@@ -236,12 +236,12 @@
 }, {
   "emoji": "🖕",
   "description": "",
-  "aliases": ["reversed_hand_with_middle_finger_extended", "middle_finger"],
+  "aliases": ["middle_finger", "reversed_hand_with_middle_finger_extended"],
   "tags": ["reversed", "hand", "with", "middle", "finger", "extended", "body", "hands", "middle", "finger", "diversity", "diversity"]
 }, {
   "emoji": "🖥",
   "description": "",
-  "aliases": ["desktop_computer", "desktop"],
+  "aliases": ["desktop", "desktop_computer"],
   "tags": ["desktop", "computer", "electronics", "work"]
 }, {
   "emoji": "☝",
@@ -266,12 +266,12 @@
 }, {
   "emoji": "🇦🇺",
   "description": "",
-  "aliases": ["au", "flag_au"],
+  "aliases": ["flag_au", "au"],
   "tags": ["australia", "country", "flag", "flag"]
 }, {
   "emoji": "🕴",
   "description": "",
-  "aliases": ["man_in_business_suit_levitating", "levitate"],
+  "aliases": ["levitate", "man_in_business_suit_levitating"],
   "tags": ["man", "in", "business", "suit", "levitating", "men", "job", "job"]
 }, {
   "emoji": "📒",
@@ -296,7 +296,7 @@
 }, {
   "emoji": "🇩🇴",
   "description": "",
-  "aliases": ["do", "flag_do"],
+  "aliases": ["flag_do", "do"],
   "tags": ["the", "dominican", "republic", "country", "flag", "flag"]
 }, {
   "emoji": "🔼",
@@ -321,7 +321,7 @@
 }, {
   "emoji": "🇲🇴",
   "description": "",
-  "aliases": ["mo", "flag_mo"],
+  "aliases": ["flag_mo", "mo"],
   "tags": ["macau", "country", "flag", "flag"]
 }, {
   "emoji": "🌾",
@@ -341,7 +341,7 @@
 }, {
   "emoji": "🥃",
   "description": "",
-  "aliases": ["whisky", "tumbler_glass"],
+  "aliases": ["tumbler_glass", "whisky"],
   "tags": ["tumbler", "glass", "booze"]
 }, {
   "emoji": "🙋🏼",
@@ -351,7 +351,7 @@
 }, {
   "emoji": "⛱",
   "description": "",
-  "aliases": ["umbrella_on_ground", "beach_umbrella"],
+  "aliases": ["beach_umbrella", "umbrella_on_ground"],
   "tags": ["umbrella", "on", "ground", "travel", "vacation", "tropical"]
 }, {
   "emoji": "🏫",
@@ -376,7 +376,7 @@
 }, {
   "emoji": "🏳",
   "description": "",
-  "aliases": ["waving_white_flag", "flag_white"],
+  "aliases": ["flag_white", "waving_white_flag"],
   "tags": ["waving", "white", "flag", "object"]
 }, {
   "emoji": "🈹",
@@ -401,7 +401,7 @@
 }, {
   "emoji": "🤚",
   "description": "",
-  "aliases": ["back_of_hand", "raised_back_of_hand"],
+  "aliases": ["raised_back_of_hand", "back_of_hand"],
   "tags": ["raised", "back", "of", "hand"]
 }, {
   "emoji": "🚧",
@@ -411,7 +411,7 @@
 }, {
   "emoji": "🤸",
   "description": "",
-  "aliases": ["person_doing_cartwheel", "cartwheel"],
+  "aliases": ["cartwheel", "person_doing_cartwheel"],
   "tags": ["person", "doing", "cartwheel"]
 }, {
   "emoji": "👨👨👦👦",
@@ -441,7 +441,7 @@
 }, {
   "emoji": "🤰🏼",
   "description": "",
-  "aliases": ["expecting_woman_tone2", "pregnant_woman_tone2"],
+  "aliases": ["pregnant_woman_tone2", "expecting_woman_tone2"],
   "tags": ["pregnant", "woman", "tone", "2"]
 }, {
   "emoji": "👩👩👧",
@@ -456,7 +456,7 @@
 }, {
   "emoji": "🖐",
   "description": "",
-  "aliases": ["raised_hand_with_fingers_splayed", "hand_splayed"],
+  "aliases": ["hand_splayed", "raised_hand_with_fingers_splayed"],
   "tags": ["raised", "hand", "with", "fingers", "splayed", "body", "hands", "hi", "diversity", "diversity"]
 }, {
   "emoji": "🌷",
@@ -471,7 +471,7 @@
 }, {
   "emoji": "🇸🇳",
   "description": "",
-  "aliases": ["sn", "flag_sn"],
+  "aliases": ["flag_sn", "sn"],
   "tags": ["senegal", "country", "flag", "flag"]
 }, {
   "emoji": "🤵",
@@ -491,7 +491,7 @@
 }, {
   "emoji": "🇹🇱",
   "description": "",
-  "aliases": ["tl", "flag_tl"],
+  "aliases": ["flag_tl", "tl"],
   "tags": ["timor-leste", "country", "flag", "flag"]
 }, {
   "emoji": "📦",
@@ -511,7 +511,7 @@
 }, {
   "emoji": "☠",
   "description": "",
-  "aliases": ["skull_and_crossbones", "skull_crossbones"],
+  "aliases": ["skull_crossbones", "skull_and_crossbones"],
   "tags": ["skull", "and", "crossbones", "symbol", "dead", "skull"]
 }, {
   "emoji": "💽",
@@ -526,12 +526,12 @@
 }, {
   "emoji": "🇦🇴",
   "description": "",
-  "aliases": ["ao", "flag_ao"],
+  "aliases": ["flag_ao", "ao"],
   "tags": ["angola", "country", "flag", "flag"]
 }, {
   "emoji": "🇨🇰",
   "description": "",
-  "aliases": ["ck", "flag_ck"],
+  "aliases": ["flag_ck", "ck"],
   "tags": ["cook", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🚣🏿",
@@ -546,12 +546,12 @@
 }, {
   "emoji": "👎",
   "description": "",
-  "aliases": ["-1", "thumbdown", "thumbsdown"],
+  "aliases": ["thumbsdown", "-1", "thumbdown"],
   "tags": ["thumbs", "down", "sign", "body", "hands", "diversity", "diversity"]
 }, {
   "emoji": "🇲🇻",
   "description": "",
-  "aliases": ["mv", "flag_mv"],
+  "aliases": ["flag_mv", "mv"],
   "tags": ["maldives", "country", "flag", "flag"]
 }, {
   "emoji": "👳🏾",
@@ -571,7 +571,7 @@
 }, {
   "emoji": "🧀",
   "description": "",
-  "aliases": ["cheese_wedge", "cheese"],
+  "aliases": ["cheese", "cheese_wedge"],
   "tags": ["cheese", "wedge", "food"]
 }, {
   "emoji": "😒",
@@ -611,7 +611,7 @@
 }, {
   "emoji": "🇲🇪",
   "description": "",
-  "aliases": ["me", "flag_me"],
+  "aliases": ["flag_me", "me"],
   "tags": ["montenegro", "country", "flag", "flag"]
 }, {
   "emoji": "®",
@@ -621,7 +621,7 @@
 }, {
   "emoji": "🗡",
   "description": "",
-  "aliases": ["dagger_knife", "dagger"],
+  "aliases": ["dagger", "dagger_knife"],
   "tags": ["dagger", "knife", "object", "weapon"]
 }, {
   "emoji": "⏯",
@@ -631,7 +631,7 @@
 }, {
   "emoji": "🤙🏾",
   "description": "",
-  "aliases": ["call_me_hand_tone4", "call_me_tone4"],
+  "aliases": ["call_me_tone4", "call_me_hand_tone4"],
   "tags": ["call", "me", "hand", "tone", "4"]
 }, {
   "emoji": "🚪",
@@ -651,7 +651,7 @@
 }, {
   "emoji": "🦁",
   "description": "",
-  "aliases": ["lion", "lion_face"],
+  "aliases": ["lion_face", "lion"],
   "tags": ["lion", "face", "wildlife", "roar", "cat", "cat", "animal", "animal"]
 }, {
   "emoji": "🀄",
@@ -666,7 +666,7 @@
 }, {
   "emoji": "🥇",
   "description": "",
-  "aliases": ["first_place_medal", "first_place"],
+  "aliases": ["first_place", "first_place_medal"],
   "tags": ["first", "place", "medal"]
 }, {
   "emoji": "⚪",
@@ -686,12 +686,12 @@
 }, {
   "emoji": "🇰🇿",
   "description": "",
-  "aliases": ["kz", "flag_kz"],
+  "aliases": ["flag_kz", "kz"],
   "tags": ["kazakhstan", "country", "flag", "flag"]
 }, {
   "emoji": "🤶🏿",
   "description": "",
-  "aliases": ["mother_christmas_tone5", "mrs_claus_tone5"],
+  "aliases": ["mrs_claus_tone5", "mother_christmas_tone5"],
   "tags": ["mother", "christmas", "tone", "5"]
 }, {
   "emoji": "🏯",
@@ -701,7 +701,7 @@
 }, {
   "emoji": "🇨🇨",
   "description": "",
-  "aliases": ["cc", "flag_cc"],
+  "aliases": ["flag_cc", "cc"],
   "tags": ["cocos", "(keeling)", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "😵",
@@ -736,7 +736,7 @@
 }, {
   "emoji": "🇺🇦",
   "description": "",
-  "aliases": ["ua", "flag_ua"],
+  "aliases": ["flag_ua", "ua"],
   "tags": ["ukraine", "country", "flag", "flag"]
 }, {
   "emoji": "🏄🏽",
@@ -761,7 +761,7 @@
 }, {
   "emoji": "🤒",
   "description": "",
-  "aliases": ["face_with_thermometer", "thermometer_face"],
+  "aliases": ["thermometer_face", "face_with_thermometer"],
   "tags": ["face", "with", "thermometer", "smiley", "health", "sick", "emotion", "emotion"]
 }, {
   "emoji": "🇸",
@@ -826,22 +826,22 @@
 }, {
   "emoji": "🇧🇸",
   "description": "",
-  "aliases": ["bs", "flag_bs"],
+  "aliases": ["flag_bs", "bs"],
   "tags": ["the", "bahamas", "country", "flag", "flag"]
 }, {
   "emoji": "🕵🏿",
   "description": "",
-  "aliases": ["sleuth_or_spy_tone5", "spy_tone5"],
+  "aliases": ["spy_tone5", "sleuth_or_spy_tone5"],
   "tags": ["sleuth", "or", "spy", "tone", "5"]
 }, {
   "emoji": "🤵🏾",
   "description": "",
-  "aliases": ["tuxedo_tone4", "man_in_tuxedo_tone4"],
+  "aliases": ["man_in_tuxedo_tone4", "tuxedo_tone4"],
   "tags": ["man", "in", "tuxedo", "tone", "4"]
 }, {
   "emoji": "🇵🇰",
   "description": "",
-  "aliases": ["pk", "flag_pk"],
+  "aliases": ["flag_pk", "pk"],
   "tags": ["pakistan", "country", "flag", "flag"]
 }, {
   "emoji": "🎚",
@@ -851,7 +851,7 @@
 }, {
   "emoji": "🇯🇪",
   "description": "",
-  "aliases": ["je", "flag_je"],
+  "aliases": ["flag_je", "je"],
   "tags": ["jersey", "country", "flag", "flag"]
 }, {
   "emoji": "🍸",
@@ -861,7 +861,7 @@
 }, {
   "emoji": "🤼🏽",
   "description": "",
-  "aliases": ["wrestling_tone3", "wrestlers_tone3"],
+  "aliases": ["wrestlers_tone3", "wrestling_tone3"],
   "tags": ["wrestlers", "tone", "3"]
 }, {
   "emoji": "🛀🏿",
@@ -876,7 +876,7 @@
 }, {
   "emoji": "🇪🇪",
   "description": "",
-  "aliases": ["ee", "flag_ee"],
+  "aliases": ["flag_ee", "ee"],
   "tags": ["estonia", "country", "flag", "flag"]
 }, {
   "emoji": "🐑",
@@ -926,12 +926,12 @@
 }, {
   "emoji": "🇲🇰",
   "description": "",
-  "aliases": ["mk", "flag_mk"],
+  "aliases": ["flag_mk", "mk"],
   "tags": ["macedonia", "country", "flag", "flag"]
 }, {
   "emoji": "🛑",
   "description": "",
-  "aliases": ["stop_sign", "octagonal_sign"],
+  "aliases": ["octagonal_sign", "stop_sign"],
   "tags": ["octagonal", "sign"]
 }, {
   "emoji": "🇭",
@@ -946,7 +946,7 @@
 }, {
   "emoji": "⛈",
   "description": "",
-  "aliases": ["thunder_cloud_and_rain", "thunder_cloud_rain"],
+  "aliases": ["thunder_cloud_rain", "thunder_cloud_and_rain"],
   "tags": ["thunder", "cloud", "and", "rain", "weather", "sky", "cloud", "cold", "rain"]
 }, {
   "emoji": "🙌🏻",
@@ -961,12 +961,12 @@
 }, {
   "emoji": "🖖🏿",
   "description": "",
-  "aliases": ["raised_hand_with_part_between_middle_and_ring_fingers_tone5", "vulcan_tone5"],
+  "aliases": ["vulcan_tone5", "raised_hand_with_part_between_middle_and_ring_fingers_tone5"],
   "tags": ["raised", "hand", "with", "part", "between", "middle", "and", "ring", "fingers", "tone", "5"]
 }, {
   "emoji": "🇸🇦",
   "description": "",
-  "aliases": ["saudiarabia", "saudi", "flag_sa"],
+  "aliases": ["flag_sa", "saudiarabia", "saudi"],
   "tags": ["saudi", "arabia", "country", "flag", "flag"]
 }, {
   "emoji": "👇🏼",
@@ -1006,17 +1006,17 @@
 }, {
   "emoji": "🇬🇬",
   "description": "",
-  "aliases": ["gg", "flag_gg"],
+  "aliases": ["flag_gg", "gg"],
   "tags": ["guernsey", "country", "flag", "flag"]
 }, {
   "emoji": "🤵🏼",
   "description": "",
-  "aliases": ["tuxedo_tone2", "man_in_tuxedo_tone2"],
+  "aliases": ["man_in_tuxedo_tone2", "tuxedo_tone2"],
   "tags": ["man", "in", "tuxedo", "tone", "2"]
 }, {
   "emoji": "🇰🇵",
   "description": "",
-  "aliases": ["kp", "flag_kp"],
+  "aliases": ["flag_kp", "kp"],
   "tags": ["north", "korea", "country", "flag", "flag"]
 }, {
   "emoji": "👻",
@@ -1031,7 +1031,7 @@
 }, {
   "emoji": "🇭🇹",
   "description": "",
-  "aliases": ["ht", "flag_ht"],
+  "aliases": ["flag_ht", "ht"],
   "tags": ["haiti", "country", "flag", "flag"]
 }, {
   "emoji": "🍃",
@@ -1041,12 +1041,12 @@
 }, {
   "emoji": "🤚🏿",
   "description": "",
-  "aliases": ["back_of_hand_tone5", "raised_back_of_hand_tone5"],
+  "aliases": ["raised_back_of_hand_tone5", "back_of_hand_tone5"],
   "tags": ["raised", "back", "of", "hand", "tone", "5"]
 }, {
   "emoji": "🇮🇶",
   "description": "",
-  "aliases": ["iq", "flag_iq"],
+  "aliases": ["flag_iq", "iq"],
   "tags": ["iraq", "country", "flag", "flag"]
 }, {
   "emoji": "👌🏿",
@@ -1061,12 +1061,12 @@
 }, {
   "emoji": "🤜🏽",
   "description": "",
-  "aliases": ["right_fist_tone3", "right_facing_fist_tone3"],
+  "aliases": ["right_facing_fist_tone3", "right_fist_tone3"],
   "tags": ["right", "facing", "fist", "tone", "3"]
 }, {
   "emoji": "🤹🏿",
   "description": "",
-  "aliases": ["juggler_tone5", "juggling_tone5"],
+  "aliases": ["juggling_tone5", "juggler_tone5"],
   "tags": ["juggling", "tone", "5"]
 }, {
   "emoji": "🦌",
@@ -1076,7 +1076,7 @@
 }, {
   "emoji": "🏋🏻",
   "description": "",
-  "aliases": ["weight_lifter_tone1", "lifter_tone1"],
+  "aliases": ["lifter_tone1", "weight_lifter_tone1"],
   "tags": ["weight", "lifter", "tone", "1"]
 }, {
   "emoji": "📲",
@@ -1101,7 +1101,7 @@
 }, {
   "emoji": "🇳🇱",
   "description": "",
-  "aliases": ["nl", "flag_nl"],
+  "aliases": ["flag_nl", "nl"],
   "tags": ["the", "netherlands", "country", "flag", "flag"]
 }, {
   "emoji": "🍫",
@@ -1126,12 +1126,12 @@
 }, {
   "emoji": "🏋🏼",
   "description": "",
-  "aliases": ["weight_lifter_tone2", "lifter_tone2"],
+  "aliases": ["lifter_tone2", "weight_lifter_tone2"],
   "tags": ["weight", "lifter", "tone", "2"]
 }, {
   "emoji": "🤶🏻",
   "description": "",
-  "aliases": ["mother_christmas_tone1", "mrs_claus_tone1"],
+  "aliases": ["mrs_claus_tone1", "mother_christmas_tone1"],
   "tags": ["mother", "christmas", "tone", "1"]
 }, {
   "emoji": "🚇",
@@ -1191,17 +1191,17 @@
 }, {
   "emoji": "🤘🏾",
   "description": "",
-  "aliases": ["sign_of_the_horns_tone4", "metal_tone4"],
+  "aliases": ["metal_tone4", "sign_of_the_horns_tone4"],
   "tags": ["sign", "of", "the", "horns", "tone", "4"]
 }, {
   "emoji": "🇵🇷",
   "description": "",
-  "aliases": ["pr", "flag_pr"],
+  "aliases": ["flag_pr", "pr"],
   "tags": ["puerto", "rico", "country", "flag", "flag"]
 }, {
   "emoji": "🇦🇽",
   "description": "",
-  "aliases": ["ax", "flag_ax"],
+  "aliases": ["flag_ax", "ax"],
   "tags": ["åland", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🏡",
@@ -1216,12 +1216,12 @@
 }, {
   "emoji": "🤚🏼",
   "description": "",
-  "aliases": ["back_of_hand_tone2", "raised_back_of_hand_tone2"],
+  "aliases": ["raised_back_of_hand_tone2", "back_of_hand_tone2"],
   "tags": ["raised", "back", "of", "hand", "tone", "2"]
 }, {
   "emoji": "🇻🇳",
   "description": "",
-  "aliases": ["vn", "flag_vn"],
+  "aliases": ["flag_vn", "vn"],
   "tags": ["vietnam", "country", "flag", "flag"]
 }, {
   "emoji": "🍤",
@@ -1231,7 +1231,7 @@
 }, {
   "emoji": "🇨🇫",
   "description": "",
-  "aliases": ["cf", "flag_cf"],
+  "aliases": ["flag_cf", "cf"],
   "tags": ["central", "african", "republic", "country", "flag", "flag"]
 }, {
   "emoji": "🎲",
@@ -1246,7 +1246,7 @@
 }, {
   "emoji": "🤛",
   "description": "",
-  "aliases": ["left_fist", "left_facing_fist"],
+  "aliases": ["left_facing_fist", "left_fist"],
   "tags": ["left-facing", "fist"]
 }, {
   "emoji": "🚵",
@@ -1256,7 +1256,7 @@
 }, {
   "emoji": "🇧🇯",
   "description": "",
-  "aliases": ["bj", "flag_bj"],
+  "aliases": ["flag_bj", "bj"],
   "tags": ["benin", "country", "flag", "flag"]
 }, {
   "emoji": "👃🏽",
@@ -1266,7 +1266,7 @@
 }, {
   "emoji": "🖐🏼",
   "description": "",
-  "aliases": ["raised_hand_with_fingers_splayed_tone2", "hand_splayed_tone2"],
+  "aliases": ["hand_splayed_tone2", "raised_hand_with_fingers_splayed_tone2"],
   "tags": ["raised", "hand", "with", "fingers", "splayed", "tone", "2"]
 }, {
   "emoji": "🎥",
@@ -1281,7 +1281,7 @@
 }, {
   "emoji": "⛹🏿",
   "description": "",
-  "aliases": ["person_with_ball_tone5", "basketball_player_tone5"],
+  "aliases": ["basketball_player_tone5", "person_with_ball_tone5"],
   "tags": ["person", "with", "ball", "tone", "5"]
 }, {
   "emoji": "4⃣",
@@ -1296,17 +1296,17 @@
 }, {
   "emoji": "🏋",
   "description": "",
-  "aliases": ["weight_lifter", "lifter"],
+  "aliases": ["lifter", "weight_lifter"],
   "tags": ["weight", "lifter", "men", "workout", "flex", "sport", "weight", "lifting", "win", "win", "diversity", "diversity"]
 }, {
   "emoji": "🔥",
   "description": "",
-  "aliases": ["flame", "fire"],
+  "aliases": ["fire", "flame"],
   "tags": ["fire", "wth", "wth", "hot", "hot"]
 }, {
   "emoji": "🇾🇪",
   "description": "",
-  "aliases": ["ye", "flag_ye"],
+  "aliases": ["flag_ye", "ye"],
   "tags": ["yemen", "country", "flag", "flag"]
 }, {
   "emoji": "👺",
@@ -1326,7 +1326,7 @@
 }, {
   "emoji": "⛹🏼",
   "description": "",
-  "aliases": ["person_with_ball_tone2", "basketball_player_tone2"],
+  "aliases": ["basketball_player_tone2", "person_with_ball_tone2"],
   "tags": ["person", "with", "ball", "tone", "2"]
 }, {
   "emoji": "😤",
@@ -1336,12 +1336,12 @@
 }, {
   "emoji": "🇱🇹",
   "description": "",
-  "aliases": ["lt", "flag_lt"],
+  "aliases": ["flag_lt", "lt"],
   "tags": ["lithuania", "country", "flag", "flag"]
 }, {
   "emoji": "🌥",
   "description": "",
-  "aliases": ["white_sun_behind_cloud", "white_sun_cloud"],
+  "aliases": ["white_sun_cloud", "white_sun_behind_cloud"],
   "tags": ["white", "sun", "behind", "cloud", "weather", "sky", "cloud", "cold", "sun"]
 }, {
   "emoji": "🐚",
@@ -1371,7 +1371,7 @@
 }, {
   "emoji": "🤼🏼",
   "description": "",
-  "aliases": ["wrestling_tone2", "wrestlers_tone2"],
+  "aliases": ["wrestlers_tone2", "wrestling_tone2"],
   "tags": ["wrestlers", "tone", "2"]
 }, {
   "emoji": "👮🏾",
@@ -1396,12 +1396,12 @@
 }, {
   "emoji": "🇭🇰",
   "description": "",
-  "aliases": ["hk", "flag_hk"],
+  "aliases": ["flag_hk", "hk"],
   "tags": ["hong", "kong", "country", "flag", "flag"]
 }, {
   "emoji": "👍🏼",
   "description": "",
-  "aliases": ["+1_tone2", "thumbup_tone2", "thumbsup_tone2"],
+  "aliases": ["thumbsup_tone2", "+1_tone2", "thumbup_tone2"],
   "tags": ["thumbs", "up", "sign", "tone", "2"]
 }, {
   "emoji": "🐯",
@@ -1446,12 +1446,12 @@
 }, {
   "emoji": "🕵🏻",
   "description": "",
-  "aliases": ["sleuth_or_spy_tone1", "spy_tone1"],
+  "aliases": ["spy_tone1", "sleuth_or_spy_tone1"],
   "tags": ["sleuth", "or", "spy", "tone", "1"]
 }, {
   "emoji": "🇰🇼",
   "description": "",
-  "aliases": ["kw", "flag_kw"],
+  "aliases": ["flag_kw", "kw"],
   "tags": ["kuwait", "country", "flag", "flag"]
 }, {
   "emoji": "🈸",
@@ -1466,12 +1466,12 @@
 }, {
   "emoji": "🏗",
   "description": "",
-  "aliases": ["building_construction", "construction_site"],
+  "aliases": ["construction_site", "building_construction"],
   "tags": ["building", "construction", "building", "crane"]
 }, {
   "emoji": "🇺🇬",
   "description": "",
-  "aliases": ["ug", "flag_ug"],
+  "aliases": ["flag_ug", "ug"],
   "tags": ["uganda", "country", "flag", "flag"]
 }, {
   "emoji": "🇰",
@@ -1486,12 +1486,12 @@
 }, {
   "emoji": "🖌",
   "description": "",
-  "aliases": ["lower_left_paintbrush", "paintbrush"],
+  "aliases": ["paintbrush", "lower_left_paintbrush"],
   "tags": ["lower", "left", "paintbrush", "object", "office", "write"]
 }, {
   "emoji": "🇪🇭",
   "description": "",
-  "aliases": ["eh", "flag_eh"],
+  "aliases": ["flag_eh", "eh"],
   "tags": ["western", "sahara", "country", "flag", "flag"]
 }, {
   "emoji": "✋🏾",
@@ -1501,7 +1501,7 @@
 }, {
   "emoji": "🗞",
   "description": "",
-  "aliases": ["rolled_up_newspaper", "newspaper2"],
+  "aliases": ["newspaper2", "rolled_up_newspaper"],
   "tags": ["rolled-up", "newspaper", "office", "write"]
 }, {
   "emoji": "🚳",
@@ -1521,7 +1521,7 @@
 }, {
   "emoji": "🇩🇬",
   "description": "",
-  "aliases": ["dg", "flag_dg"],
+  "aliases": ["flag_dg", "dg"],
   "tags": ["diego", "garcia", "country", "flag", "flag"]
 }, {
   "emoji": "🤷🏿",
@@ -1546,12 +1546,12 @@
 }, {
   "emoji": "🤚🏾",
   "description": "",
-  "aliases": ["back_of_hand_tone4", "raised_back_of_hand_tone4"],
+  "aliases": ["raised_back_of_hand_tone4", "back_of_hand_tone4"],
   "tags": ["raised", "back", "of", "hand", "tone", "4"]
 }, {
   "emoji": "🇫🇮",
   "description": "",
-  "aliases": ["fi", "flag_fi"],
+  "aliases": ["flag_fi", "fi"],
   "tags": ["finland", "country", "flag", "flag"]
 }, {
   "emoji": "⛎",
@@ -1566,7 +1566,7 @@
 }, {
   "emoji": "🇨🇿",
   "description": "",
-  "aliases": ["cz", "flag_cz"],
+  "aliases": ["flag_cz", "cz"],
   "tags": ["the", "czech", "republic", "country", "flag", "flag"]
 }, {
   "emoji": "🙍🏼",
@@ -1576,7 +1576,7 @@
 }, {
   "emoji": "🇰🇪",
   "description": "",
-  "aliases": ["ke", "flag_ke"],
+  "aliases": ["flag_ke", "ke"],
   "tags": ["kenya", "country", "flag", "flag"]
 }, {
   "emoji": "😜",
@@ -1591,12 +1591,12 @@
 }, {
   "emoji": "🇳🇮",
   "description": "",
-  "aliases": ["ni", "flag_ni"],
+  "aliases": ["flag_ni", "ni"],
   "tags": ["nicaragua", "country", "flag", "flag"]
 }, {
   "emoji": "🇸🇪",
   "description": "",
-  "aliases": ["se", "flag_se"],
+  "aliases": ["flag_se", "se"],
   "tags": ["sweden", "country", "flag", "flag"]
 }, {
   "emoji": "📥",
@@ -1606,7 +1606,7 @@
 }, {
   "emoji": "🥂",
   "description": "",
-  "aliases": ["clinking_glass", "champagne_glass"],
+  "aliases": ["champagne_glass", "clinking_glass"],
   "tags": ["clinking", "glasses"]
 }, {
   "emoji": "✋🏻",
@@ -1616,7 +1616,7 @@
 }, {
   "emoji": "🗺",
   "description": "",
-  "aliases": ["world_map", "map"],
+  "aliases": ["map", "world_map"],
   "tags": ["world", "map", "travel", "map", "vacation"]
 }, {
   "emoji": "↘",
@@ -1641,12 +1641,12 @@
 }, {
   "emoji": "🇦🇮",
   "description": "",
-  "aliases": ["ai", "flag_ai"],
+  "aliases": ["flag_ai", "ai"],
   "tags": ["anguilla", "country", "flag", "flag"]
 }, {
   "emoji": "🇼🇸",
   "description": "",
-  "aliases": ["ws", "flag_ws"],
+  "aliases": ["flag_ws", "ws"],
   "tags": ["samoa", "country", "flag", "flag"]
 }, {
   "emoji": "⏰",
@@ -1661,7 +1661,7 @@
 }, {
   "emoji": "🖇",
   "description": "",
-  "aliases": ["linked_paperclips", "paperclips"],
+  "aliases": ["paperclips", "linked_paperclips"],
   "tags": ["linked", "paperclips", "object", "work", "office"]
 }, {
   "emoji": "👶🏽",
@@ -1676,7 +1676,7 @@
 }, {
   "emoji": "🇹🇹",
   "description": "",
-  "aliases": ["tt", "flag_tt"],
+  "aliases": ["flag_tt", "tt"],
   "tags": ["trinidad", "and", "tobago", "country", "flag", "flag"]
 }, {
   "emoji": "👩👩👧👧",
@@ -1716,12 +1716,12 @@
 }, {
   "emoji": "🇳🇵",
   "description": "",
-  "aliases": ["np", "flag_np"],
+  "aliases": ["flag_np", "np"],
   "tags": ["nepal", "country", "flag", "flag"]
 }, {
   "emoji": "🤹🏻",
   "description": "",
-  "aliases": ["juggler_tone1", "juggling_tone1"],
+  "aliases": ["juggling_tone1", "juggler_tone1"],
   "tags": ["juggling", "tone", "1"]
 }, {
   "emoji": "🏪",
@@ -1771,7 +1771,7 @@
 }, {
   "emoji": "🤗",
   "description": "",
-  "aliases": ["hugging_face", "hugging"],
+  "aliases": ["hugging", "hugging_face"],
   "tags": ["hugging", "face", "smiley", "hug", "thank", "you"]
 }, {
   "emoji": "👐🏼",
@@ -1796,12 +1796,12 @@
 }, {
   "emoji": "🌧",
   "description": "",
-  "aliases": ["cloud_with_rain", "cloud_rain"],
+  "aliases": ["cloud_rain", "cloud_with_rain"],
   "tags": ["cloud", "with", "rain", "weather", "winter", "sky", "cloud", "cold", "rain"]
 }, {
   "emoji": "🕺🏽",
   "description": "",
-  "aliases": ["male_dancer_tone3", "man_dancing_tone3"],
+  "aliases": ["man_dancing_tone3", "male_dancer_tone3"],
   "tags": ["man", "dancing", "tone", "3"]
 }, {
   "emoji": "🔦",
@@ -1811,7 +1811,7 @@
 }, {
   "emoji": "🇧🇫",
   "description": "",
-  "aliases": ["bf", "flag_bf"],
+  "aliases": ["flag_bf", "bf"],
   "tags": ["burkina", "faso", "country", "flag", "flag"]
 }, {
   "emoji": "🐃",
@@ -1821,7 +1821,7 @@
 }, {
   "emoji": "🇬🇷",
   "description": "",
-  "aliases": ["gr", "flag_gr"],
+  "aliases": ["flag_gr", "gr"],
   "tags": ["greece", "country", "flag", "flag"]
 }, {
   "emoji": "🙆🏻",
@@ -1831,7 +1831,7 @@
 }, {
   "emoji": "🇵🇳",
   "description": "",
-  "aliases": ["pn", "flag_pn"],
+  "aliases": ["flag_pn", "pn"],
   "tags": ["pitcairn", "country", "flag", "flag"]
 }, {
   "emoji": "👞",
@@ -1846,7 +1846,7 @@
 }, {
   "emoji": "🥋",
   "description": "",
-  "aliases": ["karate_uniform", "martial_arts_uniform"],
+  "aliases": ["martial_arts_uniform", "karate_uniform"],
   "tags": ["martial", "arts", "uniform"]
 }, {
   "emoji": "📑",
@@ -1861,7 +1861,7 @@
 }, {
   "emoji": "🤰",
   "description": "",
-  "aliases": ["expecting_woman", "pregnant_woman"],
+  "aliases": ["pregnant_woman", "expecting_woman"],
   "tags": ["pregnant", "woman"]
 }, {
   "emoji": "👃",
@@ -1876,12 +1876,12 @@
 }, {
   "emoji": "🇲🇭",
   "description": "",
-  "aliases": ["mh", "flag_mh"],
+  "aliases": ["flag_mh", "mh"],
   "tags": ["the", "marshall", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🇱🇨",
   "description": "",
-  "aliases": ["lc", "flag_lc"],
+  "aliases": ["flag_lc", "lc"],
   "tags": ["saint", "lucia", "country", "flag", "flag"]
 }, {
   "emoji": "🍿",
@@ -1911,12 +1911,12 @@
 }, {
   "emoji": "🇳🇿",
   "description": "",
-  "aliases": ["nz", "flag_nz"],
+  "aliases": ["flag_nz", "nz"],
   "tags": ["new", "zealand", "country", "flag", "flag"]
 }, {
   "emoji": "🤛🏽",
   "description": "",
-  "aliases": ["left_fist_tone3", "left_facing_fist_tone3"],
+  "aliases": ["left_facing_fist_tone3", "left_fist_tone3"],
   "tags": ["left", "facing", "fist", "tone", "3"]
 }, {
   "emoji": "👲🏽",
@@ -1956,12 +1956,12 @@
 }, {
   "emoji": "🦏",
   "description": "",
-  "aliases": ["rhinoceros", "rhino"],
+  "aliases": ["rhino", "rhinoceros"],
   "tags": ["rhinoceros"]
 }, {
   "emoji": "☹",
   "description": "",
-  "aliases": ["white_frowning_face", "frowning2"],
+  "aliases": ["frowning2", "white_frowning_face"],
   "tags": ["white", "frowning", "face", "sad", "smiley", "emotion", "emotion"]
 }, {
   "emoji": "👑",
@@ -1986,7 +1986,7 @@
 }, {
   "emoji": "🇵🇾",
   "description": "",
-  "aliases": ["py", "flag_py"],
+  "aliases": ["flag_py", "py"],
   "tags": ["paraguay", "country", "flag", "flag"]
 }, {
   "emoji": "↕",
@@ -2016,7 +2016,7 @@
 }, {
   "emoji": "🇮🇱",
   "description": "",
-  "aliases": ["il", "flag_il"],
+  "aliases": ["flag_il", "il"],
   "tags": ["israel", "jew", "country", "flag", "flag"]
 }, {
   "emoji": "🚶🏻",
@@ -2026,7 +2026,7 @@
 }, {
   "emoji": "🇧🇲",
   "description": "",
-  "aliases": ["bm", "flag_bm"],
+  "aliases": ["flag_bm", "bm"],
   "tags": ["bermuda", "country", "flag", "flag"]
 }, {
   "emoji": "🌐",
@@ -2046,7 +2046,7 @@
 }, {
   "emoji": "🤸🏼",
   "description": "",
-  "aliases": ["person_doing_cartwheel_tone2", "cartwheel_tone2"],
+  "aliases": ["cartwheel_tone2", "person_doing_cartwheel_tone2"],
   "tags": ["person", "doing", "cartwheel", "tone", "2"]
 }, {
   "emoji": "🆙",
@@ -2066,7 +2066,7 @@
 }, {
   "emoji": "🇯🇲",
   "description": "",
-  "aliases": ["jm", "flag_jm"],
+  "aliases": ["flag_jm", "jm"],
   "tags": ["jamaica", "country", "flag", "flag"]
 }, {
   "emoji": "🚊",
@@ -2081,22 +2081,22 @@
 }, {
   "emoji": "🤞🏾",
   "description": "",
-  "aliases": ["hand_with_index_and_middle_fingers_crossed_tone4", "fingers_crossed_tone4"],
+  "aliases": ["fingers_crossed_tone4", "hand_with_index_and_middle_fingers_crossed_tone4"],
   "tags": ["hand", "with", "index", "and", "middle", "fingers", "crossed", "tone", "4"]
 }, {
   "emoji": "🇦🇱",
   "description": "",
-  "aliases": ["al", "flag_al"],
+  "aliases": ["flag_al", "al"],
   "tags": ["albania", "country", "flag", "flag"]
 }, {
   "emoji": "🇵🇭",
   "description": "",
-  "aliases": ["ph", "flag_ph"],
+  "aliases": ["flag_ph", "ph"],
   "tags": ["the", "philippines", "country", "flag", "flag"]
 }, {
   "emoji": "🇸🇯",
   "description": "",
-  "aliases": ["sj", "flag_sj"],
+  "aliases": ["flag_sj", "sj"],
   "tags": ["svalbard", "and", "jan", "mayen", "country", "flag", "flag"]
 }, {
   "emoji": "🍒",
@@ -2136,17 +2136,17 @@
 }, {
   "emoji": "🇲🇾",
   "description": "",
-  "aliases": ["my", "flag_my"],
+  "aliases": ["flag_my", "my"],
   "tags": ["malaysia", "country", "flag", "flag"]
 }, {
   "emoji": "🤦🏼",
   "description": "",
-  "aliases": ["facepalm_tone2", "face_palm_tone2"],
+  "aliases": ["face_palm_tone2", "facepalm_tone2"],
   "tags": ["face", "palm", "tone", "2"]
 }, {
   "emoji": "🇺🇾",
   "description": "",
-  "aliases": ["uy", "flag_uy"],
+  "aliases": ["flag_uy", "uy"],
   "tags": ["uruguay", "country", "flag", "flag"]
 }, {
   "emoji": "0⃣",
@@ -2171,7 +2171,7 @@
 }, {
   "emoji": "🇺🇲",
   "description": "",
-  "aliases": ["um", "flag_um"],
+  "aliases": ["flag_um", "um"],
   "tags": ["united", "states", "minor", "outlying", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🚆",
@@ -2196,7 +2196,7 @@
 }, {
   "emoji": "🇷🇼",
   "description": "",
-  "aliases": ["rw", "flag_rw"],
+  "aliases": ["flag_rw", "rw"],
   "tags": ["rwanda", "country", "flag", "flag"]
 }, {
   "emoji": "🈲",
@@ -2206,7 +2206,7 @@
 }, {
   "emoji": "🎟",
   "description": "",
-  "aliases": ["admission_tickets", "tickets"],
+  "aliases": ["tickets", "admission_tickets"],
   "tags": ["admission", "tickets", "theatre", "movie", "parties", "parties"]
 }, {
   "emoji": "😻",
@@ -2216,7 +2216,7 @@
 }, {
   "emoji": "🇦🇪",
   "description": "",
-  "aliases": ["ae", "flag_ae"],
+  "aliases": ["flag_ae", "ae"],
   "tags": ["the", "united", "arab", "emirates", "country", "flag", "flag"]
 }, {
   "emoji": "👼",
@@ -2236,7 +2236,7 @@
 }, {
   "emoji": "🖊",
   "description": "",
-  "aliases": ["lower_left_ballpoint_pen", "pen_ballpoint"],
+  "aliases": ["pen_ballpoint", "lower_left_ballpoint_pen"],
   "tags": ["lower", "left", "ballpoint", "pen", "object", "office", "write"]
 }, {
   "emoji": "🚐",
@@ -2256,12 +2256,12 @@
 }, {
   "emoji": "🥛",
   "description": "",
-  "aliases": ["glass_of_milk", "milk"],
+  "aliases": ["milk", "glass_of_milk"],
   "tags": ["glass", "of", "milk"]
 }, {
   "emoji": "💀",
   "description": "",
-  "aliases": ["skeleton", "skull"],
+  "aliases": ["skull", "skeleton"],
   "tags": ["skull", "dead", "halloween", "skull"]
 }, {
   "emoji": "🐪",
@@ -2286,7 +2286,7 @@
 }, {
   "emoji": "🥈",
   "description": "",
-  "aliases": ["second_place_medal", "second_place"],
+  "aliases": ["second_place", "second_place_medal"],
   "tags": ["second", "place", "medal"]
 }, {
   "emoji": "❔",
@@ -2296,12 +2296,12 @@
 }, {
   "emoji": "🇰🇭",
   "description": "",
-  "aliases": ["kh", "flag_kh"],
+  "aliases": ["flag_kh", "kh"],
   "tags": ["cambodia", "country", "flag", "flag"]
 }, {
   "emoji": "🇬🇳",
   "description": "",
-  "aliases": ["gn", "flag_gn"],
+  "aliases": ["flag_gn", "gn"],
   "tags": ["guinea", "country", "flag", "flag"]
 }, {
   "emoji": "🍛",
@@ -2321,7 +2321,7 @@
 }, {
   "emoji": "🇽🇰",
   "description": "",
-  "aliases": ["xk", "flag_xk"],
+  "aliases": ["flag_xk", "xk"],
   "tags": ["kosovo", "country", "flag", "flag"]
 }, {
   "emoji": "🌂",
@@ -2371,7 +2371,7 @@
 }, {
   "emoji": "🇷🇸",
   "description": "",
-  "aliases": ["rs", "flag_rs"],
+  "aliases": ["flag_rs", "rs"],
   "tags": ["serbia", "country", "flag", "flag"]
 }, {
   "emoji": "👰🏾",
@@ -2421,7 +2421,7 @@
 }, {
   "emoji": "🖖🏻",
   "description": "",
-  "aliases": ["raised_hand_with_part_between_middle_and_ring_fingers_tone1", "vulcan_tone1"],
+  "aliases": ["vulcan_tone1", "raised_hand_with_part_between_middle_and_ring_fingers_tone1"],
   "tags": ["raised", "hand", "with", "part", "between", "middle", "and", "ring", "fingers", "tone", "1"]
 }, {
   "emoji": "🌺",
@@ -2436,7 +2436,7 @@
 }, {
   "emoji": "☢",
   "description": "",
-  "aliases": ["radioactive_sign", "radioactive"],
+  "aliases": ["radioactive", "radioactive_sign"],
   "tags": ["radioactive", "sign", "symbol", "science"]
 }, {
   "emoji": "🛡",
@@ -2466,17 +2466,17 @@
 }, {
   "emoji": "🇬🇭",
   "description": "",
-  "aliases": ["gh", "flag_gh"],
+  "aliases": ["flag_gh", "gh"],
   "tags": ["ghana", "country", "flag", "flag"]
 }, {
   "emoji": "🇰🇾",
   "description": "",
-  "aliases": ["ky", "flag_ky"],
+  "aliases": ["flag_ky", "ky"],
   "tags": ["cayman", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🙁",
   "description": "",
-  "aliases": ["slightly_frowning_face", "slight_frown"],
+  "aliases": ["slight_frown", "slightly_frowning_face"],
   "tags": ["slightly", "frowning", "face", "sad", "smiley", "emotion", "emotion"]
 }, {
   "emoji": "❗",
@@ -2511,7 +2511,7 @@
 }, {
   "emoji": "🥜",
   "description": "",
-  "aliases": ["shelled_peanut", "peanuts"],
+  "aliases": ["peanuts", "shelled_peanut"],
   "tags": ["peanuts"]
 }, {
   "emoji": "👩👩👦",
@@ -2521,12 +2521,12 @@
 }, {
   "emoji": "🇧🇧",
   "description": "",
-  "aliases": ["bb", "flag_bb"],
+  "aliases": ["flag_bb", "bb"],
   "tags": ["barbados", "country", "flag", "flag"]
 }, {
   "emoji": "🤜",
   "description": "",
-  "aliases": ["right_fist", "right_facing_fist"],
+  "aliases": ["right_facing_fist", "right_fist"],
   "tags": ["right-facing", "fist"]
 }, {
   "emoji": "☦",
@@ -2551,12 +2551,12 @@
 }, {
   "emoji": "🤵🏻",
   "description": "",
-  "aliases": ["tuxedo_tone1", "man_in_tuxedo_tone1"],
+  "aliases": ["man_in_tuxedo_tone1", "tuxedo_tone1"],
   "tags": ["man", "in", "tuxedo", "tone", "1"]
 }, {
   "emoji": "🇳🇦",
   "description": "",
-  "aliases": ["na", "flag_na"],
+  "aliases": ["flag_na", "na"],
   "tags": ["namibia", "country", "flag", "flag"]
 }, {
   "emoji": "🏺",
@@ -2576,7 +2576,7 @@
 }, {
   "emoji": "❣",
   "description": "",
-  "aliases": ["heavy_heart_exclamation_mark_ornament", "heart_exclamation"],
+  "aliases": ["heart_exclamation", "heavy_heart_exclamation_mark_ornament"],
   "tags": ["heavy", "heart", "exclamation", "mark", "ornament", "love", "symbol"]
 }, {
   "emoji": "🎁",
@@ -2586,7 +2586,7 @@
 }, {
   "emoji": "🇹🇰",
   "description": "",
-  "aliases": ["tk", "flag_tk"],
+  "aliases": ["flag_tk", "tk"],
   "tags": ["tokelau", "country", "flag", "flag"]
 }, {
   "emoji": "🐦",
@@ -2606,7 +2606,7 @@
 }, {
   "emoji": "🗒",
   "description": "",
-  "aliases": ["spiral_note_pad", "notepad_spiral"],
+  "aliases": ["notepad_spiral", "spiral_note_pad"],
   "tags": ["spiral", "note", "pad", "work", "office", "write"]
 }, {
   "emoji": "👦🏾",
@@ -2616,7 +2616,7 @@
 }, {
   "emoji": "🇵🇱",
   "description": "",
-  "aliases": ["pl", "flag_pl"],
+  "aliases": ["flag_pl", "pl"],
   "tags": ["poland", "country", "flag", "flag"]
 }, {
   "emoji": "👸",
@@ -2651,12 +2651,12 @@
 }, {
   "emoji": "🤼",
   "description": "",
-  "aliases": ["wrestling", "wrestlers"],
+  "aliases": ["wrestlers", "wrestling"],
   "tags": ["wrestlers"]
 }, {
   "emoji": "🤸🏿",
   "description": "",
-  "aliases": ["person_doing_cartwheel_tone5", "cartwheel_tone5"],
+  "aliases": ["cartwheel_tone5", "person_doing_cartwheel_tone5"],
   "tags": ["person", "doing", "cartwheel", "tone", "5"]
 }, {
   "emoji": "💡",
@@ -2676,7 +2676,7 @@
 }, {
   "emoji": "🇲🇳",
   "description": "",
-  "aliases": ["mn", "flag_mn"],
+  "aliases": ["flag_mn", "mn"],
   "tags": ["mongolia", "country", "flag", "flag"]
 }, {
   "emoji": "👂🏽",
@@ -2691,7 +2691,7 @@
 }, {
   "emoji": "🇿🇲",
   "description": "",
-  "aliases": ["zm", "flag_zm"],
+  "aliases": ["flag_zm", "zm"],
   "tags": ["zambia", "country", "flag", "flag"]
 }, {
   "emoji": "🏷",
@@ -2706,7 +2706,7 @@
 }, {
   "emoji": "🇨🇾",
   "description": "",
-  "aliases": ["cy", "flag_cy"],
+  "aliases": ["flag_cy", "cy"],
   "tags": ["cyprus", "country", "flag", "flag"]
 }, {
   "emoji": "🤾🏾",
@@ -2736,12 +2736,12 @@
 }, {
   "emoji": "🇸🇰",
   "description": "",
-  "aliases": ["sk", "flag_sk"],
+  "aliases": ["flag_sk", "sk"],
   "tags": ["slovakia", "country", "flag", "flag"]
 }, {
   "emoji": "🇬🇾",
   "description": "",
-  "aliases": ["gy", "flag_gy"],
+  "aliases": ["flag_gy", "gy"],
   "tags": ["guyana", "country", "flag", "flag"]
 }, {
   "emoji": "🚽",
@@ -2751,7 +2751,7 @@
 }, {
   "emoji": "🙄",
   "description": "",
-  "aliases": ["face_with_rolling_eyes", "rolling_eyes"],
+  "aliases": ["rolling_eyes", "face_with_rolling_eyes"],
   "tags": ["face", "with", "rolling", "eyes", "mad", "smiley", "rolling", "eyes", "emotion", "emotion", "sarcastic", "sarcastic"]
 }, {
   "emoji": "🚍",
@@ -2781,12 +2781,12 @@
 }, {
   "emoji": "🤝🏻",
   "description": "",
-  "aliases": ["shaking_hands_tone1", "handshake_tone1"],
+  "aliases": ["handshake_tone1", "shaking_hands_tone1"],
   "tags": ["handshake", "tone", "1"]
 }, {
   "emoji": "🇹🇫",
   "description": "",
-  "aliases": ["tf", "flag_tf"],
+  "aliases": ["flag_tf", "tf"],
   "tags": ["french", "southern", "territories", "country", "flag", "flag"]
 }, {
   "emoji": "2⃣",
@@ -2806,7 +2806,7 @@
 }, {
   "emoji": "🏋🏾",
   "description": "",
-  "aliases": ["weight_lifter_tone4", "lifter_tone4"],
+  "aliases": ["lifter_tone4", "weight_lifter_tone4"],
   "tags": ["weight", "lifter", "tone", "4"]
 }, {
   "emoji": "🌡",
@@ -2816,7 +2816,7 @@
 }, {
   "emoji": "🇬🇦",
   "description": "",
-  "aliases": ["ga", "flag_ga"],
+  "aliases": ["flag_ga", "ga"],
   "tags": ["gabon", "country", "flag", "flag"]
 }, {
   "emoji": "👌🏾",
@@ -2836,12 +2836,12 @@
 }, {
   "emoji": "🤼🏻",
   "description": "",
-  "aliases": ["wrestling_tone1", "wrestlers_tone1"],
+  "aliases": ["wrestlers_tone1", "wrestling_tone1"],
   "tags": ["wrestlers", "tone", "1"]
 }, {
   "emoji": "🇳🇴",
   "description": "",
-  "aliases": ["no", "flag_no"],
+  "aliases": ["flag_no", "no"],
   "tags": ["norway", "country", "flag", "flag"]
 }, {
   "emoji": "👐🏾",
@@ -2866,7 +2866,7 @@
 }, {
   "emoji": "⛹🏽",
   "description": "",
-  "aliases": ["person_with_ball_tone3", "basketball_player_tone3"],
+  "aliases": ["basketball_player_tone3", "person_with_ball_tone3"],
   "tags": ["person", "with", "ball", "tone", "3"]
 }, {
   "emoji": "💂",
@@ -2886,7 +2886,7 @@
 }, {
   "emoji": "🇦🇹",
   "description": "",
-  "aliases": ["at", "flag_at"],
+  "aliases": ["flag_at", "at"],
   "tags": ["austria", "country", "flag", "flag"]
 }, {
   "emoji": "🙆🏽",
@@ -2936,7 +2936,7 @@
 }, {
   "emoji": "🇧🇳",
   "description": "",
-  "aliases": ["bn", "flag_bn"],
+  "aliases": ["flag_bn", "bn"],
   "tags": ["brunei", "country", "flag", "flag"]
 }, {
   "emoji": "👋🏻",
@@ -2986,17 +2986,17 @@
 }, {
   "emoji": "🙂",
   "description": "",
-  "aliases": ["slightly_smiling_face", "slight_smile"],
+  "aliases": ["slight_smile", "slightly_smiling_face"],
   "tags": ["slightly", "smiling", "face", "happy", "smiley"]
 }, {
   "emoji": "🇬🇩",
   "description": "",
-  "aliases": ["gd", "flag_gd"],
+  "aliases": ["flag_gd", "gd"],
   "tags": ["grenada", "country", "flag", "flag"]
 }, {
   "emoji": "🖕🏾",
   "description": "",
-  "aliases": ["reversed_hand_with_middle_finger_extended_tone4", "middle_finger_tone4"],
+  "aliases": ["middle_finger_tone4", "reversed_hand_with_middle_finger_extended_tone4"],
   "tags": ["reversed", "hand", "with", "middle", "finger", "extended", "tone", "4"]
 }, {
   "emoji": "📐",
@@ -3026,7 +3026,7 @@
 }, {
   "emoji": "👍",
   "description": "",
-  "aliases": ["+1", "thumbup", "thumbsup"],
+  "aliases": ["thumbsup", "+1", "thumbup"],
   "tags": ["thumbs", "up", "sign", "body", "hands", "hi", "luck", "thank", "you", "diversity", "diversity", "perfect", "perfect", "good", "good", "beautiful", "beautiful"]
 }, {
   "emoji": "🎌",
@@ -3046,7 +3046,7 @@
 }, {
   "emoji": "🇮🇹",
   "description": "",
-  "aliases": ["it", "flag_it"],
+  "aliases": ["flag_it", "it"],
   "tags": ["italy", "italian", "country", "flag", "flag"]
 }, {
   "emoji": "🌻",
@@ -3056,12 +3056,12 @@
 }, {
   "emoji": "🇩🇰",
   "description": "",
-  "aliases": ["dk", "flag_dk"],
+  "aliases": ["flag_dk", "dk"],
   "tags": ["denmark", "country", "flag", "flag"]
 }, {
   "emoji": "🇦🇷",
   "description": "",
-  "aliases": ["ar", "flag_ar"],
+  "aliases": ["flag_ar", "ar"],
   "tags": ["argentina", "country", "flag", "flag"]
 }, {
   "emoji": "🤴",
@@ -3071,12 +3071,12 @@
 }, {
   "emoji": "🤕",
   "description": "",
-  "aliases": ["face_with_head_bandage", "head_bandage"],
+  "aliases": ["head_bandage", "face_with_head_bandage"],
   "tags": ["face", "with", "head-bandage", "smiley", "health", "sick", "emotion", "emotion"]
 }, {
   "emoji": "🛠",
   "description": "",
-  "aliases": ["hammer_and_wrench", "tools"],
+  "aliases": ["tools", "hammer_and_wrench"],
   "tags": ["hammer", "and", "wrench", "object", "tool"]
 }, {
   "emoji": "⚔",
@@ -3111,12 +3111,12 @@
 }, {
   "emoji": "🇳🇷",
   "description": "",
-  "aliases": ["nr", "flag_nr"],
+  "aliases": ["flag_nr", "nr"],
   "tags": ["nauru", "country", "flag", "flag"]
 }, {
   "emoji": "🤙🏼",
   "description": "",
-  "aliases": ["call_me_hand_tone2", "call_me_tone2"],
+  "aliases": ["call_me_tone2", "call_me_hand_tone2"],
   "tags": ["call", "me", "hand", "tone", "2"]
 }, {
   "emoji": "🎗",
@@ -3131,7 +3131,7 @@
 }, {
   "emoji": "🕵🏾",
   "description": "",
-  "aliases": ["sleuth_or_spy_tone4", "spy_tone4"],
+  "aliases": ["spy_tone4", "sleuth_or_spy_tone4"],
   "tags": ["sleuth", "or", "spy", "tone", "4"]
 }, {
   "emoji": "☀",
@@ -3141,7 +3141,7 @@
 }, {
   "emoji": "🖕🏻",
   "description": "",
-  "aliases": ["reversed_hand_with_middle_finger_extended_tone1", "middle_finger_tone1"],
+  "aliases": ["middle_finger_tone1", "reversed_hand_with_middle_finger_extended_tone1"],
   "tags": ["reversed", "hand", "with", "middle", "finger", "extended", "tone", "1"]
 }, {
   "emoji": "✋🏿",
@@ -3156,7 +3156,7 @@
 }, {
   "emoji": "🤝🏼",
   "description": "",
-  "aliases": ["shaking_hands_tone2", "handshake_tone2"],
+  "aliases": ["handshake_tone2", "shaking_hands_tone2"],
   "tags": ["handshake", "tone", "2"]
 }, {
   "emoji": "🎾",
@@ -3166,7 +3166,7 @@
 }, {
   "emoji": "🇲🇶",
   "description": "",
-  "aliases": ["mq", "flag_mq"],
+  "aliases": ["flag_mq", "mq"],
   "tags": ["martinique", "country", "flag", "flag"]
 }, {
   "emoji": "🚄",
@@ -3181,7 +3181,7 @@
 }, {
   "emoji": "🛶",
   "description": "",
-  "aliases": ["kayak", "canoe"],
+  "aliases": ["canoe", "kayak"],
   "tags": ["canoe"]
 }, {
   "emoji": "⏩",
@@ -3201,7 +3201,7 @@
 }, {
   "emoji": "🤙🏽",
   "description": "",
-  "aliases": ["call_me_hand_tone3", "call_me_tone3"],
+  "aliases": ["call_me_tone3", "call_me_hand_tone3"],
   "tags": ["call", "me", "hand", "tone", "3"]
 }, {
   "emoji": "🥚",
@@ -3211,7 +3211,7 @@
 }, {
   "emoji": "🥅",
   "description": "",
-  "aliases": ["goal_net", "goal"],
+  "aliases": ["goal", "goal_net"],
   "tags": ["goal", "net"]
 }, {
   "emoji": "🚙",
@@ -3251,12 +3251,12 @@
 }, {
   "emoji": "🤘🏼",
   "description": "",
-  "aliases": ["sign_of_the_horns_tone2", "metal_tone2"],
+  "aliases": ["metal_tone2", "sign_of_the_horns_tone2"],
   "tags": ["sign", "of", "the", "horns", "tone", "2"]
 }, {
   "emoji": "🇦🇲",
   "description": "",
-  "aliases": ["am", "flag_am"],
+  "aliases": ["flag_am", "am"],
   "tags": ["armenia", "country", "flag", "flag"]
 }, {
   "emoji": "♠",
@@ -3266,12 +3266,12 @@
 }, {
   "emoji": "👵🏽",
   "description": "",
-  "aliases": ["grandma_tone3", "older_woman_tone3"],
+  "aliases": ["older_woman_tone3", "grandma_tone3"],
   "tags": ["older", "woman", "tone", "3"]
 }, {
   "emoji": "🇩🇿",
   "description": "",
-  "aliases": ["dz", "flag_dz"],
+  "aliases": ["flag_dz", "dz"],
   "tags": ["algeria", "country", "flag", "flag"]
 }, {
   "emoji": "👨🏼",
@@ -3321,7 +3321,7 @@
 }, {
   "emoji": "🤝🏿",
   "description": "",
-  "aliases": ["shaking_hands_tone5", "handshake_tone5"],
+  "aliases": ["handshake_tone5", "shaking_hands_tone5"],
   "tags": ["handshake", "tone", "5"]
 }, {
   "emoji": "🌼",
@@ -3351,7 +3351,7 @@
 }, {
   "emoji": "🇱🇺",
   "description": "",
-  "aliases": ["lu", "flag_lu"],
+  "aliases": ["flag_lu", "lu"],
   "tags": ["luxembourg", "country", "flag", "flag"]
 }, {
   "emoji": "🛴",
@@ -3381,7 +3381,7 @@
 }, {
   "emoji": "👍🏻",
   "description": "",
-  "aliases": ["+1_tone1", "thumbup_tone1", "thumbsup_tone1"],
+  "aliases": ["thumbsup_tone1", "+1_tone1", "thumbup_tone1"],
   "tags": ["thumbs", "up", "sign", "tone", "1"]
 }, {
   "emoji": "🏃",
@@ -3391,7 +3391,7 @@
 }, {
   "emoji": "🇸🇹",
   "description": "",
-  "aliases": ["st", "flag_st"],
+  "aliases": ["flag_st", "st"],
   "tags": ["são", "tomé", "and", "príncipe", "country", "flag", "flag"]
 }, {
   "emoji": "👶🏼",
@@ -3406,7 +3406,7 @@
 }, {
   "emoji": "🎙",
   "description": "",
-  "aliases": ["studio_microphone", "microphone2"],
+  "aliases": ["microphone2", "studio_microphone"],
   "tags": ["studio", "microphone", "electronics", "object"]
 }, {
   "emoji": "🤴🏿",
@@ -3431,7 +3431,7 @@
 }, {
   "emoji": "🐾",
   "description": "",
-  "aliases": ["paw_prints", "feet"],
+  "aliases": ["feet", "paw_prints"],
   "tags": ["paw", "prints", "animal", "animal"]
 }, {
   "emoji": "💅🏿",
@@ -3506,7 +3506,7 @@
 }, {
   "emoji": "🏹",
   "description": "",
-  "aliases": ["archery", "bow_and_arrow"],
+  "aliases": ["bow_and_arrow", "archery"],
   "tags": ["bow", "and", "arrow", "weapon", "sport"]
 }, {
   "emoji": "📝",
@@ -3516,7 +3516,7 @@
 }, {
   "emoji": "👎🏿",
   "description": "",
-  "aliases": ["-1_tone5", "thumbdown_tone5", "thumbsdown_tone5"],
+  "aliases": ["thumbsdown_tone5", "-1_tone5", "thumbdown_tone5"],
   "tags": ["thumbs", "down", "sign", "tone", "5"]
 }, {
   "emoji": "▪",
@@ -3526,7 +3526,7 @@
 }, {
   "emoji": "🌪",
   "description": "",
-  "aliases": ["cloud_with_tornado", "cloud_tornado"],
+  "aliases": ["cloud_tornado", "cloud_with_tornado"],
   "tags": ["cloud", "with", "tornado", "weather", "sky", "cold"]
 }, {
   "emoji": "⛲",
@@ -3541,7 +3541,7 @@
 }, {
   "emoji": "🇵🇹",
   "description": "",
-  "aliases": ["pt", "flag_pt"],
+  "aliases": ["flag_pt", "pt"],
   "tags": ["portugal", "country", "flag", "flag"]
 }, {
   "emoji": "👨",
@@ -3556,7 +3556,7 @@
 }, {
   "emoji": "🗓",
   "description": "",
-  "aliases": ["spiral_calendar_pad", "calendar_spiral"],
+  "aliases": ["calendar_spiral", "spiral_calendar_pad"],
   "tags": ["spiral", "calendar", "pad", "object", "office"]
 }, {
   "emoji": "🏆",
@@ -3611,7 +3611,7 @@
 }, {
   "emoji": "🌨",
   "description": "",
-  "aliases": ["cloud_with_snow", "cloud_snow"],
+  "aliases": ["cloud_snow", "cloud_with_snow"],
   "tags": ["cloud", "with", "snow", "weather", "winter", "sky", "cloud", "cold", "snow", "snow"]
 }, {
   "emoji": "🏁",
@@ -3626,7 +3626,7 @@
 }, {
   "emoji": "🤞🏿",
   "description": "",
-  "aliases": ["hand_with_index_and_middle_fingers_crossed_tone5", "fingers_crossed_tone5"],
+  "aliases": ["fingers_crossed_tone5", "hand_with_index_and_middle_fingers_crossed_tone5"],
   "tags": ["hand", "with", "index", "and", "middle", "fingers", "crossed", "tone", "5"]
 }, {
   "emoji": "💃🏿",
@@ -3651,7 +3651,7 @@
 }, {
   "emoji": "🤚🏻",
   "description": "",
-  "aliases": ["back_of_hand_tone1", "raised_back_of_hand_tone1"],
+  "aliases": ["raised_back_of_hand_tone1", "back_of_hand_tone1"],
   "tags": ["raised", "back", "of", "hand", "tone", "1"]
 }, {
   "emoji": "🐭",
@@ -3671,7 +3671,7 @@
 }, {
   "emoji": "👍🏿",
   "description": "",
-  "aliases": ["+1_tone5", "thumbup_tone5", "thumbsup_tone5"],
+  "aliases": ["thumbsup_tone5", "+1_tone5", "thumbup_tone5"],
   "tags": ["thumbs", "up", "sign", "tone", "5"]
 }, {
   "emoji": "👱🏼",
@@ -3701,7 +3701,7 @@
 }, {
   "emoji": "🇧🇾",
   "description": "",
-  "aliases": ["by", "flag_by"],
+  "aliases": ["flag_by", "by"],
   "tags": ["belarus", "country", "flag", "flag"]
 }, {
   "emoji": "📸",
@@ -3741,7 +3741,7 @@
 }, {
   "emoji": "🤶🏼",
   "description": "",
-  "aliases": ["mother_christmas_tone2", "mrs_claus_tone2"],
+  "aliases": ["mrs_claus_tone2", "mother_christmas_tone2"],
   "tags": ["mother", "christmas", "tone", "2"]
 }, {
   "emoji": "🎃",
@@ -3751,12 +3751,12 @@
 }, {
   "emoji": "🇸🇽",
   "description": "",
-  "aliases": ["sx", "flag_sx"],
+  "aliases": ["flag_sx", "sx"],
   "tags": ["sint", "maarten", "country", "flag", "flag"]
 }, {
   "emoji": "⛑",
   "description": "",
-  "aliases": ["helmet_with_white_cross", "helmet_with_cross"],
+  "aliases": ["helmet_with_cross", "helmet_with_white_cross"],
   "tags": ["helmet", "with", "white", "cross", "object", "hat", "accessories", "job", "job"]
 }, {
   "emoji": "🐳",
@@ -3776,12 +3776,12 @@
 }, {
   "emoji": "🇮🇲",
   "description": "",
-  "aliases": ["im", "flag_im"],
+  "aliases": ["flag_im", "im"],
   "tags": ["isle", "of", "man", "country", "flag", "flag"]
 }, {
   "emoji": "🤛🏼",
   "description": "",
-  "aliases": ["left_fist_tone2", "left_facing_fist_tone2"],
+  "aliases": ["left_facing_fist_tone2", "left_fist_tone2"],
   "tags": ["left", "facing", "fist", "tone", "2"]
 }, {
   "emoji": "🔓",
@@ -3811,7 +3811,7 @@
 }, {
   "emoji": "🛐",
   "description": "",
-  "aliases": ["worship_symbol", "place_of_worship"],
+  "aliases": ["place_of_worship", "worship_symbol"],
   "tags": ["place", "of", "worship", "religion", "symbol", "pray", "pray"]
 }, {
   "emoji": "🍡",
@@ -3871,7 +3871,7 @@
 }, {
   "emoji": "🇺🇿",
   "description": "",
-  "aliases": ["uz", "flag_uz"],
+  "aliases": ["flag_uz", "uz"],
   "tags": ["uzbekistan", "country", "flag", "flag"]
 }, {
   "emoji": "♥",
@@ -3891,7 +3891,7 @@
 }, {
   "emoji": "🇾🇹",
   "description": "",
-  "aliases": ["yt", "flag_yt"],
+  "aliases": ["flag_yt", "yt"],
   "tags": ["mayotte", "country", "flag", "flag"]
 }, {
   "emoji": "🏬",
@@ -3956,7 +3956,7 @@
 }, {
   "emoji": "🕵",
   "description": "",
-  "aliases": ["sleuth_or_spy", "spy"],
+  "aliases": ["spy", "sleuth_or_spy"],
   "tags": ["sleuth", "or", "spy", "people", "hat", "men", "glasses", "diversity", "diversity", "job", "job"]
 }, {
   "emoji": "🈴",
@@ -3966,7 +3966,7 @@
 }, {
   "emoji": "🏅",
   "description": "",
-  "aliases": ["sports_medal", "medal"],
+  "aliases": ["medal", "sports_medal"],
   "tags": ["sports", "medal", "object", "award", "sport", "win", "win", "perfect", "perfect"]
 }, {
   "emoji": "💄",
@@ -3981,7 +3981,7 @@
 }, {
   "emoji": "🤹",
   "description": "",
-  "aliases": ["juggler", "juggling"],
+  "aliases": ["juggling", "juggler"],
   "tags": ["juggling"]
 }, {
   "emoji": "🔨",
@@ -3996,7 +3996,7 @@
 }, {
   "emoji": "🗯",
   "description": "",
-  "aliases": ["right_anger_bubble", "anger_right"],
+  "aliases": ["anger_right", "right_anger_bubble"],
   "tags": ["right", "anger", "bubble", "symbol"]
 }, {
   "emoji": "🏻",
@@ -4031,7 +4031,7 @@
 }, {
   "emoji": "🇲🇼",
   "description": "",
-  "aliases": ["mw", "flag_mw"],
+  "aliases": ["flag_mw", "mw"],
   "tags": ["malawi", "country", "flag", "flag"]
 }, {
   "emoji": "🔆",
@@ -4056,7 +4056,7 @@
 }, {
   "emoji": "🇱🇾",
   "description": "",
-  "aliases": ["ly", "flag_ly"],
+  "aliases": ["flag_ly", "ly"],
   "tags": ["libya", "country", "flag", "flag"]
 }, {
   "emoji": "🕤",
@@ -4071,7 +4071,7 @@
 }, {
   "emoji": "🇫🇲",
   "description": "",
-  "aliases": ["fm", "flag_fm"],
+  "aliases": ["flag_fm", "fm"],
   "tags": ["micronesia", "country", "flag", "flag"]
 }, {
   "emoji": "👨👨👧👧",
@@ -4091,7 +4091,7 @@
 }, {
   "emoji": "🇫🇯",
   "description": "",
-  "aliases": ["fj", "flag_fj"],
+  "aliases": ["flag_fj", "fj"],
   "tags": ["fiji", "country", "flag", "flag"]
 }, {
   "emoji": "🕥",
@@ -4121,7 +4121,7 @@
 }, {
   "emoji": "🛩",
   "description": "",
-  "aliases": ["small_airplane", "airplane_small"],
+  "aliases": ["airplane_small", "small_airplane"],
   "tags": ["small", "airplane", "transportation", "plane", "travel", "vacation", "fly", "fly"]
 }, {
   "emoji": "👏🏾",
@@ -4141,7 +4141,7 @@
 }, {
   "emoji": "🇨🇻",
   "description": "",
-  "aliases": ["cv", "flag_cv"],
+  "aliases": ["flag_cv", "cv"],
   "tags": ["cape", "verde", "country", "flag", "flag"]
 }, {
   "emoji": "😾",
@@ -4151,7 +4151,7 @@
 }, {
   "emoji": "🖐🏻",
   "description": "",
-  "aliases": ["raised_hand_with_fingers_splayed_tone1", "hand_splayed_tone1"],
+  "aliases": ["hand_splayed_tone1", "raised_hand_with_fingers_splayed_tone1"],
   "tags": ["raised", "hand", "with", "fingers", "splayed", "tone", "1"]
 }, {
   "emoji": "😲",
@@ -4171,7 +4171,7 @@
 }, {
   "emoji": "🤦🏽",
   "description": "",
-  "aliases": ["facepalm_tone3", "face_palm_tone3"],
+  "aliases": ["face_palm_tone3", "facepalm_tone3"],
   "tags": ["face", "palm", "tone", "3"]
 }, {
   "emoji": "👰🏻",
@@ -4191,7 +4191,7 @@
 }, {
   "emoji": "🤰🏿",
   "description": "",
-  "aliases": ["expecting_woman_tone5", "pregnant_woman_tone5"],
+  "aliases": ["pregnant_woman_tone5", "expecting_woman_tone5"],
   "tags": ["pregnant", "woman", "tone", "5"]
 }, {
   "emoji": "👨👨👧👦",
@@ -4216,7 +4216,7 @@
 }, {
   "emoji": "🇮🇨",
   "description": "",
-  "aliases": ["ic", "flag_ic"],
+  "aliases": ["flag_ic", "ic"],
   "tags": ["canary", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "📇",
@@ -4231,7 +4231,7 @@
 }, {
   "emoji": "🥀",
   "description": "",
-  "aliases": ["wilted_flower", "wilted_rose"],
+  "aliases": ["wilted_rose", "wilted_flower"],
   "tags": ["wilted", "flower"]
 }, {
   "emoji": "📆",
@@ -4261,12 +4261,12 @@
 }, {
   "emoji": "🇹🇴",
   "description": "",
-  "aliases": ["to", "flag_to"],
+  "aliases": ["flag_to", "to"],
   "tags": ["tonga", "country", "flag", "flag"]
 }, {
   "emoji": "🤹🏾",
   "description": "",
-  "aliases": ["juggler_tone4", "juggling_tone4"],
+  "aliases": ["juggling_tone4", "juggler_tone4"],
   "tags": ["juggling", "tone", "4"]
 }, {
   "emoji": "🇾",
@@ -4321,7 +4321,7 @@
 }, {
   "emoji": "🛤",
   "description": "",
-  "aliases": ["railroad_track", "railway_track"],
+  "aliases": ["railway_track", "railroad_track"],
   "tags": ["railway", "track", "travel", "train", "vacation"]
 }, {
   "emoji": "🎷",
@@ -4396,7 +4396,7 @@
 }, {
   "emoji": "🏳🌈",
   "description": "",
-  "aliases": ["rainbow_flag", "gay_pride_flag"],
+  "aliases": ["gay_pride_flag", "rainbow_flag"],
   "tags": ["gay_pride_flag"]
 }, {
   "emoji": "👐🏻",
@@ -4411,12 +4411,12 @@
 }, {
   "emoji": "🤸🏻",
   "description": "",
-  "aliases": ["person_doing_cartwheel_tone1", "cartwheel_tone1"],
+  "aliases": ["cartwheel_tone1", "person_doing_cartwheel_tone1"],
   "tags": ["person", "doing", "cartwheel", "tone", "1"]
 }, {
   "emoji": "🇻🇮",
   "description": "",
-  "aliases": ["vi", "flag_vi"],
+  "aliases": ["flag_vi", "vi"],
   "tags": ["u.s.", "virgin", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🙆🏼",
@@ -4431,7 +4431,7 @@
 }, {
   "emoji": "🇨🇬",
   "description": "",
-  "aliases": ["cg", "flag_cg"],
+  "aliases": ["flag_cg", "cg"],
   "tags": ["the", "republic", "of", "the", "congo", "country", "flag", "flag"]
 }, {
   "emoji": "🏄🏼",
@@ -4446,7 +4446,7 @@
 }, {
   "emoji": "🇲🇿",
   "description": "",
-  "aliases": ["mz", "flag_mz"],
+  "aliases": ["flag_mz", "mz"],
   "tags": ["mozambique", "country", "flag", "flag"]
 }, {
   "emoji": "🏦",
@@ -4456,12 +4456,12 @@
 }, {
   "emoji": "⚒",
   "description": "",
-  "aliases": ["hammer_and_pick", "hammer_pick"],
+  "aliases": ["hammer_pick", "hammer_and_pick"],
   "tags": ["hammer", "and", "pick", "object", "tool", "weapon"]
 }, {
   "emoji": "🇹🇭",
   "description": "",
-  "aliases": ["th", "flag_th"],
+  "aliases": ["flag_th", "th"],
   "tags": ["thailand", "country", "flag", "flag"]
 }, {
   "emoji": "🙋🏾",
@@ -4491,17 +4491,17 @@
 }, {
   "emoji": "🍾",
   "description": "",
-  "aliases": ["bottle_with_popping_cork", "champagne"],
+  "aliases": ["champagne", "bottle_with_popping_cork"],
   "tags": ["bottle", "with", "popping", "cork", "drink", "cheers", "alcohol", "parties", "parties"]
 }, {
   "emoji": "🇧🇼",
   "description": "",
-  "aliases": ["bw", "flag_bw"],
+  "aliases": ["flag_bw", "bw"],
   "tags": ["botswana", "country", "flag", "flag"]
 }, {
   "emoji": "🤘🏿",
   "description": "",
-  "aliases": ["sign_of_the_horns_tone5", "metal_tone5"],
+  "aliases": ["metal_tone5", "sign_of_the_horns_tone5"],
   "tags": ["sign", "of", "the", "horns", "tone", "5"]
 }, {
   "emoji": "👱🏽",
@@ -4526,7 +4526,7 @@
 }, {
   "emoji": "🤞🏼",
   "description": "",
-  "aliases": ["hand_with_index_and_middle_fingers_crossed_tone2", "fingers_crossed_tone2"],
+  "aliases": ["fingers_crossed_tone2", "hand_with_index_and_middle_fingers_crossed_tone2"],
   "tags": ["hand", "with", "index", "and", "middle", "fingers", "crossed", "tone", "2"]
 }, {
   "emoji": "👂🏼",
@@ -4536,12 +4536,12 @@
 }, {
   "emoji": "🗨",
   "description": "",
-  "aliases": ["left_speech_bubble", "speech_left"],
+  "aliases": ["speech_left", "left_speech_bubble"],
   "tags": ["left", "speech", "bubble"]
 }, {
   "emoji": "📽",
   "description": "",
-  "aliases": ["film_projector", "projector"],
+  "aliases": ["projector", "film_projector"],
   "tags": ["film", "projector", "object", "camera", "movie"]
 }, {
   "emoji": "🏇🏻",
@@ -4581,7 +4581,7 @@
 }, {
   "emoji": "🇰🇳",
   "description": "",
-  "aliases": ["kn", "flag_kn"],
+  "aliases": ["flag_kn", "kn"],
   "tags": ["saint", "kitts", "and", "nevis", "country", "flag", "flag"]
 }, {
   "emoji": "🍺",
@@ -4611,7 +4611,7 @@
 }, {
   "emoji": "🤞",
   "description": "",
-  "aliases": ["hand_with_index_and_middle_finger_crossed", "fingers_crossed"],
+  "aliases": ["fingers_crossed", "hand_with_index_and_middle_finger_crossed"],
   "tags": ["hand", "with", "first", "and", "index", "finger", "crossed"]
 }, {
   "emoji": "👈🏼",
@@ -4621,17 +4621,17 @@
 }, {
   "emoji": "🇩🇯",
   "description": "",
-  "aliases": ["dj", "flag_dj"],
+  "aliases": ["flag_dj", "dj"],
   "tags": ["djibouti", "country", "flag", "flag"]
 }, {
   "emoji": "🇸🇱",
   "description": "",
-  "aliases": ["sl", "flag_sl"],
+  "aliases": ["flag_sl", "sl"],
   "tags": ["sierra", "leone", "country", "flag", "flag"]
 }, {
   "emoji": "🤰🏾",
   "description": "",
-  "aliases": ["expecting_woman_tone4", "pregnant_woman_tone4"],
+  "aliases": ["pregnant_woman_tone4", "expecting_woman_tone4"],
   "tags": ["pregnant", "woman", "tone", "4"]
 }, {
   "emoji": "🔩",
@@ -4656,12 +4656,12 @@
 }, {
   "emoji": "🇰🇬",
   "description": "",
-  "aliases": ["kg", "flag_kg"],
+  "aliases": ["flag_kg", "kg"],
   "tags": ["kyrgyzstan", "country", "flag", "flag"]
 }, {
   "emoji": "🇧🇦",
   "description": "",
-  "aliases": ["ba", "flag_ba"],
+  "aliases": ["flag_ba", "ba"],
   "tags": ["bosnia", "and", "herzegovina", "country", "flag", "flag"]
 }, {
   "emoji": "✌",
@@ -4681,17 +4681,17 @@
 }, {
   "emoji": "🤜🏻",
   "description": "",
-  "aliases": ["right_fist_tone1", "right_facing_fist_tone1"],
+  "aliases": ["right_facing_fist_tone1", "right_fist_tone1"],
   "tags": ["right", "facing", "fist", "tone", "1"]
 }, {
   "emoji": "🇹🇯",
   "description": "",
-  "aliases": ["tj", "flag_tj"],
+  "aliases": ["flag_tj", "tj"],
   "tags": ["tajikistan", "country", "flag", "flag"]
 }, {
   "emoji": "🇪🇦",
   "description": "",
-  "aliases": ["ea", "flag_ea"],
+  "aliases": ["flag_ea", "ea"],
   "tags": ["ceuta,", "melilla", "country", "flag", "flag"]
 }, {
   "emoji": "🎿",
@@ -4716,12 +4716,12 @@
 }, {
   "emoji": "🇨🇮",
   "description": "",
-  "aliases": ["ci", "flag_ci"],
+  "aliases": ["flag_ci", "ci"],
   "tags": ["côte", "d’ivoire", "country", "flag", "flag"]
 }, {
   "emoji": "🇪🇷",
   "description": "",
-  "aliases": ["er", "flag_er"],
+  "aliases": ["flag_er", "er"],
   "tags": ["eritrea", "country", "flag", "flag"]
 }, {
   "emoji": "🕷",
@@ -4736,7 +4736,7 @@
 }, {
   "emoji": "🇸🇿",
   "description": "",
-  "aliases": ["sz", "flag_sz"],
+  "aliases": ["flag_sz", "sz"],
   "tags": ["swaziland", "country", "flag", "flag"]
 }, {
   "emoji": "6⃣",
@@ -4746,12 +4746,12 @@
 }, {
   "emoji": "🏴",
   "description": "",
-  "aliases": ["waving_black_flag", "flag_black"],
+  "aliases": ["flag_black", "waving_black_flag"],
   "tags": ["waving", "black", "flag", "object"]
 }, {
   "emoji": "🇲🇵",
   "description": "",
-  "aliases": ["mp", "flag_mp"],
+  "aliases": ["flag_mp", "mp"],
   "tags": ["northern", "mariana", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🕢",
@@ -4761,12 +4761,12 @@
 }, {
   "emoji": "🗣",
   "description": "",
-  "aliases": ["speaking_head_in_silhouette", "speaking_head"],
+  "aliases": ["speaking_head", "speaking_head_in_silhouette"],
   "tags": ["speaking", "head", "in", "silhouette", "people", "talk"]
 }, {
   "emoji": "⏏",
   "description": "",
-  "aliases": ["eject_symbol", "eject"],
+  "aliases": ["eject", "eject_symbol"],
   "tags": ["eject", "symbol"]
 }, {
   "emoji": "🥄",
@@ -4791,17 +4791,17 @@
 }, {
   "emoji": "🇨🇷",
   "description": "",
-  "aliases": ["cr", "flag_cr"],
+  "aliases": ["flag_cr", "cr"],
   "tags": ["costa", "rica", "country", "flag", "flag"]
 }, {
   "emoji": "🏍",
   "description": "",
-  "aliases": ["racing_motorcycle", "motorcycle"],
+  "aliases": ["motorcycle", "racing_motorcycle"],
   "tags": ["racing", "motorcycle", "transportation", "travel", "bike"]
 }, {
   "emoji": "👵🏿",
   "description": "",
-  "aliases": ["grandma_tone5", "older_woman_tone5"],
+  "aliases": ["older_woman_tone5", "grandma_tone5"],
   "tags": ["older", "woman", "tone", "5"]
 }, {
   "emoji": "🤽🏻",
@@ -4846,7 +4846,7 @@
 }, {
   "emoji": "🖕🏿",
   "description": "",
-  "aliases": ["reversed_hand_with_middle_finger_extended_tone5", "middle_finger_tone5"],
+  "aliases": ["middle_finger_tone5", "reversed_hand_with_middle_finger_extended_tone5"],
   "tags": ["reversed", "hand", "with", "middle", "finger", "extended", "tone", "5"]
 }, {
   "emoji": "🌊",
@@ -4866,7 +4866,7 @@
 }, {
   "emoji": "🇧🇿",
   "description": "",
-  "aliases": ["bz", "flag_bz"],
+  "aliases": ["flag_bz", "bz"],
   "tags": ["belize", "country", "flag", "flag"]
 }, {
   "emoji": "🥑",
@@ -4886,7 +4886,7 @@
 }, {
   "emoji": "☣",
   "description": "",
-  "aliases": ["biohazard_sign", "biohazard"],
+  "aliases": ["biohazard", "biohazard_sign"],
   "tags": ["biohazard", "sign", "symbol", "science"]
 }, {
   "emoji": "🌖",
@@ -4931,7 +4931,7 @@
 }, {
   "emoji": "🥁",
   "description": "",
-  "aliases": ["drum_with_drumsticks", "drum"],
+  "aliases": ["drum", "drum_with_drumsticks"],
   "tags": ["drum", "with", "drumsticks"]
 }, {
   "emoji": "✏",
@@ -4941,12 +4941,12 @@
 }, {
   "emoji": "🇬🇱",
   "description": "",
-  "aliases": ["gl", "flag_gl"],
+  "aliases": ["flag_gl", "gl"],
   "tags": ["greenland", "country", "flag", "flag"]
 }, {
   "emoji": "🏋🏽",
   "description": "",
-  "aliases": ["weight_lifter_tone3", "lifter_tone3"],
+  "aliases": ["lifter_tone3", "weight_lifter_tone3"],
   "tags": ["weight", "lifter", "tone", "3"]
 }, {
   "emoji": "⚙",
@@ -4961,12 +4961,12 @@
 }, {
   "emoji": "👎🏾",
   "description": "",
-  "aliases": ["-1_tone4", "thumbdown_tone4", "thumbsdown_tone4"],
+  "aliases": ["thumbsdown_tone4", "-1_tone4", "thumbdown_tone4"],
   "tags": ["thumbs", "down", "sign", "tone", "4"]
 }, {
   "emoji": "🇵🇲",
   "description": "",
-  "aliases": ["pm", "flag_pm"],
+  "aliases": ["flag_pm", "pm"],
   "tags": ["saint", "pierre", "and", "miquelon", "country", "flag", "flag"]
 }, {
   "emoji": "🚈",
@@ -4981,12 +4981,12 @@
 }, {
   "emoji": "🤺",
   "description": "",
-  "aliases": ["fencing", "fencer"],
+  "aliases": ["fencer", "fencing"],
   "tags": ["fencer"]
 }, {
   "emoji": "🇧🇶",
   "description": "",
-  "aliases": ["bq", "flag_bq"],
+  "aliases": ["flag_bq", "bq"],
   "tags": ["caribbean", "netherlands", "country", "flag", "flag"]
 }, {
   "emoji": "🆔",
@@ -4996,7 +4996,7 @@
 }, {
   "emoji": "📧",
   "description": "",
-  "aliases": ["email", "e-mail"],
+  "aliases": ["e-mail", "email"],
   "tags": ["e-mail", "symbol", "office"]
 }, {
   "emoji": "🔶",
@@ -5021,12 +5021,12 @@
 }, {
   "emoji": "*⃣",
   "description": "",
-  "aliases": ["keycap_asterisk", "asterisk"],
+  "aliases": ["asterisk", "keycap_asterisk"],
   "tags": ["keycap", "asterisk", "symbol"]
 }, {
   "emoji": "🇭🇲",
   "description": "",
-  "aliases": ["hm", "flag_hm"],
+  "aliases": ["flag_hm", "hm"],
   "tags": ["heard", "island", "and", "mcdonald", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🚚",
@@ -5041,7 +5041,7 @@
 }, {
   "emoji": "🇲🇹",
   "description": "",
-  "aliases": ["mt", "flag_mt"],
+  "aliases": ["flag_mt", "mt"],
   "tags": ["malta", "country", "flag", "flag"]
 }, {
   "emoji": "⌛",
@@ -5086,7 +5086,7 @@
 }, {
   "emoji": "🤸🏾",
   "description": "",
-  "aliases": ["person_doing_cartwheel_tone4", "cartwheel_tone4"],
+  "aliases": ["cartwheel_tone4", "person_doing_cartwheel_tone4"],
   "tags": ["person", "doing", "cartwheel", "tone", "4"]
 }, {
   "emoji": "📹",
@@ -5096,12 +5096,12 @@
 }, {
   "emoji": "🇮🇳",
   "description": "",
-  "aliases": ["in", "flag_in"],
+  "aliases": ["flag_in", "in"],
   "tags": ["india", "country", "flag", "flag"]
 }, {
   "emoji": "🇳🇺",
   "description": "",
-  "aliases": ["nu", "flag_nu"],
+  "aliases": ["flag_nu", "nu"],
   "tags": ["niue", "country", "flag", "flag"]
 }, {
   "emoji": "🍰",
@@ -5116,7 +5116,7 @@
 }, {
   "emoji": "🇷🇴",
   "description": "",
-  "aliases": ["ro", "flag_ro"],
+  "aliases": ["flag_ro", "ro"],
   "tags": ["romania", "country", "flag", "flag"]
 }, {
   "emoji": "🏀",
@@ -5126,7 +5126,7 @@
 }, {
   "emoji": "🇸🇨",
   "description": "",
-  "aliases": ["sc", "flag_sc"],
+  "aliases": ["flag_sc", "sc"],
   "tags": ["the", "seychelles", "country", "flag", "flag"]
 }, {
   "emoji": "🔂",
@@ -5171,7 +5171,7 @@
 }, {
   "emoji": "🤘🏻",
   "description": "",
-  "aliases": ["sign_of_the_horns_tone1", "metal_tone1"],
+  "aliases": ["metal_tone1", "sign_of_the_horns_tone1"],
   "tags": ["sign", "of", "the", "horns", "tone", "1"]
 }, {
   "emoji": "♋",
@@ -5211,12 +5211,12 @@
 }, {
   "emoji": "🇮🇴",
   "description": "",
-  "aliases": ["io", "flag_io"],
+  "aliases": ["flag_io", "io"],
   "tags": ["british", "indian", "ocean", "territory", "country", "flag", "flag"]
 }, {
   "emoji": "🇦🇶",
   "description": "",
-  "aliases": ["aq", "flag_aq"],
+  "aliases": ["flag_aq", "aq"],
   "tags": ["antarctica", "country", "flag", "flag"]
 }, {
   "emoji": "🛬",
@@ -5226,7 +5226,7 @@
 }, {
   "emoji": "🛢",
   "description": "",
-  "aliases": ["oil_drum", "oil"],
+  "aliases": ["oil", "oil_drum"],
   "tags": ["oil", "drum", "object"]
 }, {
   "emoji": "👨👩👧👦",
@@ -5266,17 +5266,17 @@
 }, {
   "emoji": "🕰",
   "description": "",
-  "aliases": ["mantlepiece_clock", "clock"],
+  "aliases": ["clock", "mantlepiece_clock"],
   "tags": ["mantlepiece", "clock", "object", "time"]
 }, {
   "emoji": "🇹🇻",
   "description": "",
-  "aliases": ["tuvalu", "flag_tv"],
+  "aliases": ["flag_tv", "tuvalu"],
   "tags": ["tuvalu", "country", "flag", "flag"]
 }, {
   "emoji": "🗂",
   "description": "",
-  "aliases": ["card_index_dividers", "dividers"],
+  "aliases": ["dividers", "card_index_dividers"],
   "tags": ["card", "index", "dividers", "work", "office"]
 }, {
   "emoji": "🅱",
@@ -5286,7 +5286,7 @@
 }, {
   "emoji": "🌭",
   "description": "",
-  "aliases": ["hot_dog", "hotdog"],
+  "aliases": ["hotdog", "hot_dog"],
   "tags": ["hot", "dog", "america", "food"]
 }, {
   "emoji": "👐🏽",
@@ -5296,12 +5296,12 @@
 }, {
   "emoji": "🤙🏻",
   "description": "",
-  "aliases": ["call_me_hand_tone1", "call_me_tone1"],
+  "aliases": ["call_me_tone1", "call_me_hand_tone1"],
   "tags": ["call", "me", "hand", "tone", "1"]
 }, {
   "emoji": "🇪🇹",
   "description": "",
-  "aliases": ["et", "flag_et"],
+  "aliases": ["flag_et", "et"],
   "tags": ["ethiopia", "country", "flag", "flag"]
 }, {
   "emoji": "🏄",
@@ -5326,7 +5326,7 @@
 }, {
   "emoji": "🥊",
   "description": "",
-  "aliases": ["boxing_gloves", "boxing_glove"],
+  "aliases": ["boxing_glove", "boxing_gloves"],
   "tags": ["boxing", "glove"]
 }, {
   "emoji": "💅🏼",
@@ -5336,7 +5336,7 @@
 }, {
   "emoji": "🇦🇩",
   "description": "",
-  "aliases": ["ad", "flag_ad"],
+  "aliases": ["flag_ad", "ad"],
   "tags": ["andorra", "country", "flag", "flag"]
 }, {
   "emoji": "🏤",
@@ -5371,7 +5371,7 @@
 }, {
   "emoji": "⏸",
   "description": "",
-  "aliases": ["double_vertical_bar", "pause_button"],
+  "aliases": ["pause_button", "double_vertical_bar"],
   "tags": ["double", "vertical", "bar", "symbol"]
 }, {
   "emoji": "🐉",
@@ -5391,12 +5391,12 @@
 }, {
   "emoji": "🇿🇦",
   "description": "",
-  "aliases": ["za", "flag_za"],
+  "aliases": ["flag_za", "za"],
   "tags": ["south", "africa", "country", "flag", "flag"]
 }, {
   "emoji": "🤛🏿",
   "description": "",
-  "aliases": ["left_fist_tone5", "left_facing_fist_tone5"],
+  "aliases": ["left_facing_fist_tone5", "left_fist_tone5"],
   "tags": ["left", "facing", "fist", "tone", "5"]
 }, {
   "emoji": "⛴",
@@ -5416,7 +5416,7 @@
 }, {
   "emoji": "🇻🇦",
   "description": "",
-  "aliases": ["va", "flag_va"],
+  "aliases": ["flag_va", "va"],
   "tags": ["the", "vatican", "city", "country", "flag", "flag"]
 }, {
   "emoji": "🚢",
@@ -5431,12 +5431,12 @@
 }, {
   "emoji": "🇨🇵",
   "description": "",
-  "aliases": ["cp", "flag_cp"],
+  "aliases": ["flag_cp", "cp"],
   "tags": ["clipperton", "island", "country", "flag", "flag"]
 }, {
   "emoji": "🇷🇪",
   "description": "",
-  "aliases": ["re", "flag_re"],
+  "aliases": ["flag_re", "re"],
   "tags": ["réunion", "country", "flag", "flag"]
 }, {
   "emoji": "😌",
@@ -5446,7 +5446,7 @@
 }, {
   "emoji": "🇨🇦",
   "description": "",
-  "aliases": ["ca", "flag_ca"],
+  "aliases": ["flag_ca", "ca"],
   "tags": ["canada", "country", "flag", "flag"]
 }, {
   "emoji": "💾",
@@ -5461,7 +5461,7 @@
 }, {
   "emoji": "🇸🇷",
   "description": "",
-  "aliases": ["sr", "flag_sr"],
+  "aliases": ["flag_sr", "sr"],
   "tags": ["suriname", "country", "flag", "flag"]
 }, {
   "emoji": "🚦",
@@ -5486,7 +5486,7 @@
 }, {
   "emoji": "🙃",
   "description": "",
-  "aliases": ["upside_down_face", "upside_down"],
+  "aliases": ["upside_down", "upside_down_face"],
   "tags": ["upside-down", "face", "silly", "smiley", "sarcastic", "sarcastic"]
 }, {
   "emoji": "✍🏾",
@@ -5511,7 +5511,7 @@
 }, {
   "emoji": "🇹🇬",
   "description": "",
-  "aliases": ["tg", "flag_tg"],
+  "aliases": ["flag_tg", "tg"],
   "tags": ["togo", "country", "flag", "flag"]
 }, {
   "emoji": "🚬",
@@ -5521,7 +5521,7 @@
 }, {
   "emoji": "🇱🇻",
   "description": "",
-  "aliases": ["lv", "flag_lv"],
+  "aliases": ["flag_lv", "lv"],
   "tags": ["latvia", "country", "flag", "flag"]
 }, {
   "emoji": "〽",
@@ -5531,7 +5531,7 @@
 }, {
   "emoji": "🇵🇦",
   "description": "",
-  "aliases": ["pa", "flag_pa"],
+  "aliases": ["flag_pa", "pa"],
   "tags": ["panama", "country", "flag", "flag"]
 }, {
   "emoji": "🐛",
@@ -5546,7 +5546,7 @@
 }, {
   "emoji": "🇧🇪",
   "description": "",
-  "aliases": ["be", "flag_be"],
+  "aliases": ["flag_be", "be"],
   "tags": ["belgium", "country", "flag", "flag"]
 }, {
   "emoji": "🥓",
@@ -5556,7 +5556,7 @@
 }, {
   "emoji": "🇨🇺",
   "description": "",
-  "aliases": ["cu", "flag_cu"],
+  "aliases": ["flag_cu", "cu"],
   "tags": ["cuba", "country", "flag", "flag"]
 }, {
   "emoji": "🐄",
@@ -5566,12 +5566,12 @@
 }, {
   "emoji": "🇦🇸",
   "description": "",
-  "aliases": ["as", "flag_as"],
+  "aliases": ["flag_as", "as"],
   "tags": ["american", "samoa", "country", "flag", "flag"]
 }, {
   "emoji": "🖕🏼",
   "description": "",
-  "aliases": ["reversed_hand_with_middle_finger_extended_tone2", "middle_finger_tone2"],
+  "aliases": ["middle_finger_tone2", "reversed_hand_with_middle_finger_extended_tone2"],
   "tags": ["reversed", "hand", "with", "middle", "finger", "extended", "tone", "2"]
 }, {
   "emoji": "💐",
@@ -5581,12 +5581,12 @@
 }, {
   "emoji": "🇯🇵",
   "description": "",
-  "aliases": ["jp", "flag_jp"],
+  "aliases": ["flag_jp", "jp"],
   "tags": ["japan", "japan", "country", "flag", "flag"]
 }, {
   "emoji": "🇬🇺",
   "description": "",
-  "aliases": ["gu", "flag_gu"],
+  "aliases": ["flag_gu", "gu"],
   "tags": ["guam", "country", "flag", "flag"]
 }, {
   "emoji": "💁",
@@ -5616,7 +5616,7 @@
 }, {
   "emoji": "🇸🇴",
   "description": "",
-  "aliases": ["so", "flag_so"],
+  "aliases": ["flag_so", "so"],
   "tags": ["somalia", "country", "flag", "flag"]
 }, {
   "emoji": "😓",
@@ -5631,17 +5631,17 @@
 }, {
   "emoji": "🇭🇺",
   "description": "",
-  "aliases": ["hu", "flag_hu"],
+  "aliases": ["flag_hu", "hu"],
   "tags": ["hungary", "country", "flag", "flag"]
 }, {
   "emoji": "🗝",
   "description": "",
-  "aliases": ["old_key", "key2"],
+  "aliases": ["key2", "old_key"],
   "tags": ["old", "key", "object", "lock"]
 }, {
   "emoji": "🇧🇴",
   "description": "",
-  "aliases": ["bo", "flag_bo"],
+  "aliases": ["flag_bo", "bo"],
   "tags": ["bolivia", "country", "flag", "flag"]
 }, {
   "emoji": "💂🏿",
@@ -5666,7 +5666,7 @@
 }, {
   "emoji": "⚱",
   "description": "",
-  "aliases": ["funeral_urn", "urn"],
+  "aliases": ["urn", "funeral_urn"],
   "tags": ["funeral", "urn", "object", "dead", "rip", "rip"]
 }, {
   "emoji": "💞",
@@ -5676,7 +5676,7 @@
 }, {
   "emoji": "🤤",
   "description": "",
-  "aliases": ["drool", "drooling_face"],
+  "aliases": ["drooling_face", "drool"],
   "tags": ["drooling", "face"]
 }, {
   "emoji": "🏠",
@@ -5696,12 +5696,12 @@
 }, {
   "emoji": "🇪🇸",
   "description": "",
-  "aliases": ["es", "flag_es"],
+  "aliases": ["flag_es", "es"],
   "tags": ["spain", "country", "flag", "flag"]
 }, {
   "emoji": "☮",
   "description": "",
-  "aliases": ["peace_symbol", "peace"],
+  "aliases": ["peace", "peace_symbol"],
   "tags": ["peace", "symbol", "symbol", "peace", "peace", "drugs", "drugs"]
 }, {
   "emoji": "🍪",
@@ -5741,22 +5741,22 @@
 }, {
   "emoji": "🇲🇸",
   "description": "",
-  "aliases": ["ms", "flag_ms"],
+  "aliases": ["flag_ms", "ms"],
   "tags": ["montserrat", "country", "flag", "flag"]
 }, {
   "emoji": "🇯🇴",
   "description": "",
-  "aliases": ["jo", "flag_jo"],
+  "aliases": ["flag_jo", "jo"],
   "tags": ["jordan", "country", "flag", "flag"]
 }, {
   "emoji": "🇭🇷",
   "description": "",
-  "aliases": ["hr", "flag_hr"],
+  "aliases": ["flag_hr", "hr"],
   "tags": ["croatia", "country", "flag", "flag"]
 }, {
   "emoji": "🇨🇼",
   "description": "",
-  "aliases": ["cw", "flag_cw"],
+  "aliases": ["flag_cw", "cw"],
   "tags": ["curaçao", "country", "flag", "flag"]
 }, {
   "emoji": "💢",
@@ -5766,12 +5766,12 @@
 }, {
   "emoji": "🇸🇩",
   "description": "",
-  "aliases": ["sd", "flag_sd"],
+  "aliases": ["flag_sd", "sd"],
   "tags": ["sudan", "country", "flag", "flag"]
 }, {
   "emoji": "🤝🏾",
   "description": "",
-  "aliases": ["shaking_hands_tone4", "handshake_tone4"],
+  "aliases": ["handshake_tone4", "shaking_hands_tone4"],
   "tags": ["handshake", "tone", "4"]
 }, {
   "emoji": "🚎",
@@ -5801,17 +5801,17 @@
 }, {
   "emoji": "👵🏻",
   "description": "",
-  "aliases": ["grandma_tone1", "older_woman_tone1"],
+  "aliases": ["older_woman_tone1", "grandma_tone1"],
   "tags": ["older", "woman", "tone", "1"]
 }, {
   "emoji": "🇦🇬",
   "description": "",
-  "aliases": ["ag", "flag_ag"],
+  "aliases": ["flag_ag", "ag"],
   "tags": ["antigua", "and", "barbuda", "country", "flag", "flag"]
 }, {
   "emoji": "🇹🇷",
   "description": "",
-  "aliases": ["tr", "flag_tr"],
+  "aliases": ["flag_tr", "tr"],
   "tags": ["turkey", "country", "flag", "flag"]
 }, {
   "emoji": "👩🏿",
@@ -5836,7 +5836,7 @@
 }, {
   "emoji": "🇬🇶",
   "description": "",
-  "aliases": ["gq", "flag_gq"],
+  "aliases": ["flag_gq", "gq"],
   "tags": ["equatorial", "guinea", "country", "flag", "flag"]
 }, {
   "emoji": "👂🏻",
@@ -5856,12 +5856,12 @@
 }, {
   "emoji": "🤝",
   "description": "",
-  "aliases": ["shaking_hands", "handshake"],
+  "aliases": ["handshake", "shaking_hands"],
   "tags": ["handshake"]
 }, {
   "emoji": "🤞🏻",
   "description": "",
-  "aliases": ["hand_with_index_and_middle_fingers_crossed_tone1", "fingers_crossed_tone1"],
+  "aliases": ["fingers_crossed_tone1", "hand_with_index_and_middle_fingers_crossed_tone1"],
   "tags": ["hand", "with", "index", "and", "middle", "fingers", "crossed", "tone", "1"]
 }, {
   "emoji": "📬",
@@ -5891,7 +5891,7 @@
 }, {
   "emoji": "🤐",
   "description": "",
-  "aliases": ["zipper_mouth_face", "zipper_mouth"],
+  "aliases": ["zipper_mouth", "zipper_mouth_face"],
   "tags": ["zipper-mouth", "face", "mad", "smiley"]
 }, {
   "emoji": "🆕",
@@ -5906,7 +5906,7 @@
 }, {
   "emoji": "🇼🇫",
   "description": "",
-  "aliases": ["wf", "flag_wf"],
+  "aliases": ["flag_wf", "wf"],
   "tags": ["wallis", "and", "futuna", "country", "flag", "flag"]
 }, {
   "emoji": "☕",
@@ -5951,7 +5951,7 @@
 }, {
   "emoji": "👎🏻",
   "description": "",
-  "aliases": ["-1_tone1", "thumbdown_tone1", "thumbsdown_tone1"],
+  "aliases": ["thumbsdown_tone1", "-1_tone1", "thumbdown_tone1"],
   "tags": ["thumbs", "down", "sign", "tone", "1"]
 }, {
   "emoji": "👜",
@@ -5961,12 +5961,12 @@
 }, {
   "emoji": "🇲🇬",
   "description": "",
-  "aliases": ["mg", "flag_mg"],
+  "aliases": ["flag_mg", "mg"],
   "tags": ["madagascar", "country", "flag", "flag"]
 }, {
   "emoji": "🕺🏿",
   "description": "",
-  "aliases": ["male_dancer_tone5", "man_dancing_tone5"],
+  "aliases": ["man_dancing_tone5", "male_dancer_tone5"],
   "tags": ["man", "dancing", "tone", "5"]
 }, {
   "emoji": "🚝",
@@ -5976,7 +5976,7 @@
 }, {
   "emoji": "🇸🇻",
   "description": "",
-  "aliases": ["sv", "flag_sv"],
+  "aliases": ["flag_sv", "sv"],
   "tags": ["el", "salvador", "country", "flag", "flag"]
 }, {
   "emoji": "🔉",
@@ -5996,7 +5996,7 @@
 }, {
   "emoji": "🇬🇹",
   "description": "",
-  "aliases": ["gt", "flag_gt"],
+  "aliases": ["flag_gt", "gt"],
   "tags": ["guatemala", "country", "flag", "flag"]
 }, {
   "emoji": "🎵",
@@ -6016,7 +6016,7 @@
 }, {
   "emoji": "🇧🇭",
   "description": "",
-  "aliases": ["bh", "flag_bh"],
+  "aliases": ["flag_bh", "bh"],
   "tags": ["bahrain", "country", "flag", "flag"]
 }, {
   "emoji": "🚣🏾",
@@ -6056,17 +6056,17 @@
 }, {
   "emoji": "🇧🇷",
   "description": "",
-  "aliases": ["br", "flag_br"],
+  "aliases": ["flag_br", "br"],
   "tags": ["brazil", "country", "flag", "flag"]
 }, {
   "emoji": "🇹🇨",
   "description": "",
-  "aliases": ["tc", "flag_tc"],
+  "aliases": ["flag_tc", "tc"],
   "tags": ["turks", "and", "caicos", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🇲🇫",
   "description": "",
-  "aliases": ["mf", "flag_mf"],
+  "aliases": ["flag_mf", "mf"],
   "tags": ["saint", "martin", "country", "flag", "flag"]
 }, {
   "emoji": "🈶",
@@ -6086,7 +6086,7 @@
 }, {
   "emoji": "👵",
   "description": "",
-  "aliases": ["grandma", "older_woman"],
+  "aliases": ["older_woman", "grandma"],
   "tags": ["older", "woman", "people", "old", "people", "diversity", "diversity"]
 }, {
   "emoji": "☝🏽",
@@ -6106,12 +6106,12 @@
 }, {
   "emoji": "🤛🏻",
   "description": "",
-  "aliases": ["left_fist_tone1", "left_facing_fist_tone1"],
+  "aliases": ["left_facing_fist_tone1", "left_fist_tone1"],
   "tags": ["left", "facing", "fist", "tone", "1"]
 }, {
   "emoji": "🏞",
   "description": "",
-  "aliases": ["national_park", "park"],
+  "aliases": ["park", "national_park"],
   "tags": ["national", "park", "travel", "vacation", "park", "camp"]
 }, {
   "emoji": "💼",
@@ -6121,7 +6121,7 @@
 }, {
   "emoji": "🇻🇪",
   "description": "",
-  "aliases": ["ve", "flag_ve"],
+  "aliases": ["flag_ve", "ve"],
   "tags": ["venezuela", "country", "flag", "flag"]
 }, {
   "emoji": "🚴🏼",
@@ -6131,17 +6131,17 @@
 }, {
   "emoji": "🇸🇸",
   "description": "",
-  "aliases": ["ss", "flag_ss"],
+  "aliases": ["flag_ss", "ss"],
   "tags": ["south", "sudan", "country", "flag", "flag"]
 }, {
   "emoji": "🇵🇼",
   "description": "",
-  "aliases": ["pw", "flag_pw"],
+  "aliases": ["flag_pw", "pw"],
   "tags": ["palau", "country", "flag", "flag"]
 }, {
   "emoji": "🇩🇪",
   "description": "",
-  "aliases": ["de", "flag_de"],
+  "aliases": ["flag_de", "de"],
   "tags": ["germany", "country", "flag", "flag"]
 }, {
   "emoji": "👳",
@@ -6151,7 +6151,7 @@
 }, {
   "emoji": "🤑",
   "description": "",
-  "aliases": ["money_mouth_face", "money_mouth"],
+  "aliases": ["money_mouth", "money_mouth_face"],
   "tags": ["money-mouth", "face", "smiley", "win", "win", "money", "money", "emotion", "emotion", "boys", "night", "boys", "night"]
 }, {
   "emoji": "👷🏻",
@@ -6161,7 +6161,7 @@
 }, {
   "emoji": "🇱🇷",
   "description": "",
-  "aliases": ["lr", "flag_lr"],
+  "aliases": ["flag_lr", "lr"],
   "tags": ["liberia", "country", "flag", "flag"]
 }, {
   "emoji": "🌙",
@@ -6201,12 +6201,12 @@
 }, {
   "emoji": "🇪🇬",
   "description": "",
-  "aliases": ["eg", "flag_eg"],
+  "aliases": ["flag_eg", "eg"],
   "tags": ["egypt", "country", "flag", "flag"]
 }, {
   "emoji": "🥉",
   "description": "",
-  "aliases": ["third_place_medal", "third_place"],
+  "aliases": ["third_place", "third_place_medal"],
   "tags": ["third", "place", "medal"]
 }, {
   "emoji": "🔔",
@@ -6251,12 +6251,12 @@
 }, {
   "emoji": "🤦",
   "description": "",
-  "aliases": ["facepalm", "face_palm"],
+  "aliases": ["face_palm", "facepalm"],
   "tags": ["face", "palm"]
 }, {
   "emoji": "🇳🇬",
   "description": "",
-  "aliases": ["nigeria", "flag_ng"],
+  "aliases": ["flag_ng", "nigeria"],
   "tags": ["nigeria", "country", "flag", "flag"]
 }, {
   "emoji": "👸🏼",
@@ -6281,7 +6281,7 @@
 }, {
   "emoji": "🇲🇲",
   "description": "",
-  "aliases": ["mm", "flag_mm"],
+  "aliases": ["flag_mm", "mm"],
   "tags": ["myanmar", "country", "flag", "flag"]
 }, {
   "emoji": "🔋",
@@ -6291,7 +6291,7 @@
 }, {
   "emoji": "🇬🇮",
   "description": "",
-  "aliases": ["gi", "flag_gi"],
+  "aliases": ["flag_gi", "gi"],
   "tags": ["gibraltar", "country", "flag", "flag"]
 }, {
   "emoji": "👇🏾",
@@ -6316,7 +6316,7 @@
 }, {
   "emoji": "🇫🇰",
   "description": "",
-  "aliases": ["fk", "flag_fk"],
+  "aliases": ["flag_fk", "fk"],
   "tags": ["falkland", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "💇🏿",
@@ -6326,7 +6326,7 @@
 }, {
   "emoji": "🇭🇳",
   "description": "",
-  "aliases": ["hn", "flag_hn"],
+  "aliases": ["flag_hn", "hn"],
   "tags": ["honduras", "country", "flag", "flag"]
 }, {
   "emoji": "💹",
@@ -6356,12 +6356,12 @@
 }, {
   "emoji": "🖋",
   "description": "",
-  "aliases": ["lower_left_fountain_pen", "pen_fountain"],
+  "aliases": ["pen_fountain", "lower_left_fountain_pen"],
   "tags": ["lower", "left", "fountain", "pen", "object", "office", "write"]
 }, {
   "emoji": "✝",
   "description": "",
-  "aliases": ["latin_cross", "cross"],
+  "aliases": ["cross", "latin_cross"],
   "tags": ["latin", "cross", "religion", "symbol"]
 }, {
   "emoji": "👯",
@@ -6386,7 +6386,7 @@
 }, {
   "emoji": "🕺🏼",
   "description": "",
-  "aliases": ["male_dancer_tone2", "man_dancing_tone2"],
+  "aliases": ["man_dancing_tone2", "male_dancer_tone2"],
   "tags": ["man", "dancing", "tone", "2"]
 }, {
   "emoji": "🎀",
@@ -6401,12 +6401,12 @@
 }, {
   "emoji": "🤰🏻",
   "description": "",
-  "aliases": ["expecting_woman_tone1", "pregnant_woman_tone1"],
+  "aliases": ["pregnant_woman_tone1", "expecting_woman_tone1"],
   "tags": ["pregnant", "woman", "tone", "1"]
 }, {
   "emoji": "🇬🇲",
   "description": "",
-  "aliases": ["gm", "flag_gm"],
+  "aliases": ["flag_gm", "gm"],
   "tags": ["the", "gambia", "country", "flag", "flag"]
 }, {
   "emoji": "👊🏾",
@@ -6416,12 +6416,12 @@
 }, {
   "emoji": "🖱",
   "description": "",
-  "aliases": ["three_button_mouse", "mouse_three_button"],
+  "aliases": ["mouse_three_button", "three_button_mouse"],
   "tags": ["three", "button", "mouse", "electronics", "work", "game", "office"]
 }, {
   "emoji": "👍🏾",
   "description": "",
-  "aliases": ["+1_tone4", "thumbup_tone4", "thumbsup_tone4"],
+  "aliases": ["thumbsup_tone4", "+1_tone4", "thumbup_tone4"],
   "tags": ["thumbs", "up", "sign", "tone", "4"]
 }, {
   "emoji": "👶🏻",
@@ -6446,7 +6446,7 @@
 }, {
   "emoji": "🌩",
   "description": "",
-  "aliases": ["cloud_with_lightning", "cloud_lightning"],
+  "aliases": ["cloud_lightning", "cloud_with_lightning"],
   "tags": ["cloud", "with", "lightning", "weather", "sky", "cloud", "cold", "rain"]
 }, {
   "emoji": "🎈",
@@ -6461,7 +6461,7 @@
 }, {
   "emoji": "🤹🏽",
   "description": "",
-  "aliases": ["juggler_tone3", "juggling_tone3"],
+  "aliases": ["juggling_tone3", "juggler_tone3"],
   "tags": ["juggling", "tone", "3"]
 }, {
   "emoji": "🗑",
@@ -6476,7 +6476,7 @@
 }, {
   "emoji": "🇹🇳",
   "description": "",
-  "aliases": ["tn", "flag_tn"],
+  "aliases": ["flag_tn", "tn"],
   "tags": ["tunisia", "country", "flag", "flag"]
 }, {
   "emoji": "🈺",
@@ -6506,7 +6506,7 @@
 }, {
   "emoji": "🇨🇲",
   "description": "",
-  "aliases": ["cm", "flag_cm"],
+  "aliases": ["flag_cm", "cm"],
   "tags": ["cameroon", "country", "flag", "flag"]
 }, {
   "emoji": "🚹",
@@ -6531,7 +6531,7 @@
 }, {
   "emoji": "🤶🏽",
   "description": "",
-  "aliases": ["mother_christmas_tone3", "mrs_claus_tone3"],
+  "aliases": ["mrs_claus_tone3", "mother_christmas_tone3"],
   "tags": ["mother", "christmas", "tone", "3"]
 }, {
   "emoji": "🏊🏿",
@@ -6546,7 +6546,7 @@
 }, {
   "emoji": "🤖",
   "description": "",
-  "aliases": ["robot_face", "robot"],
+  "aliases": ["robot", "robot_face"],
   "tags": ["robot", "face", "monster", "robot"]
 }, {
   "emoji": "👶",
@@ -6581,7 +6581,7 @@
 }, {
   "emoji": "🇵🇸",
   "description": "",
-  "aliases": ["ps", "flag_ps"],
+  "aliases": ["flag_ps", "ps"],
   "tags": ["palestinian", "authority", "country", "flag", "flag"]
 }, {
   "emoji": "🐿",
@@ -6621,12 +6621,12 @@
 }, {
   "emoji": "🇦🇿",
   "description": "",
-  "aliases": ["az", "flag_az"],
+  "aliases": ["flag_az", "az"],
   "tags": ["azerbaijan", "country", "flag", "flag"]
 }, {
   "emoji": "🇮🇸",
   "description": "",
-  "aliases": ["is", "flag_is"],
+  "aliases": ["flag_is", "is"],
   "tags": ["iceland", "country", "flag", "flag"]
 }, {
   "emoji": "💗",
@@ -6651,7 +6651,7 @@
 }, {
   "emoji": "🇺🇸",
   "description": "",
-  "aliases": ["us", "flag_us"],
+  "aliases": ["flag_us", "us"],
   "tags": ["united", "states", "america", "country", "flag", "flag"]
 }, {
   "emoji": "🃏",
@@ -6671,7 +6671,7 @@
 }, {
   "emoji": "🤵🏿",
   "description": "",
-  "aliases": ["tuxedo_tone5", "man_in_tuxedo_tone5"],
+  "aliases": ["man_in_tuxedo_tone5", "tuxedo_tone5"],
   "tags": ["man", "in", "tuxedo", "tone", "5"]
 }, {
   "emoji": "🔡",
@@ -6711,7 +6711,7 @@
 }, {
   "emoji": "🇨🇭",
   "description": "",
-  "aliases": ["ch", "flag_ch"],
+  "aliases": ["flag_ch", "ch"],
   "tags": ["switzerland", "country", "neutral", "flag", "flag"]
 }, {
   "emoji": "🤽",
@@ -6721,7 +6721,7 @@
 }, {
   "emoji": "👨❤💋👨",
   "description": "",
-  "aliases": ["couplekiss_mm", "kiss_mm"],
+  "aliases": ["kiss_mm", "couplekiss_mm"],
   "tags": ["kiss", "(man,man)", "people", "gay", "men", "love", "sex", "lgbt", "lgbt"]
 }, {
   "emoji": "㊗",
@@ -6741,7 +6741,7 @@
 }, {
   "emoji": "🇱🇮",
   "description": "",
-  "aliases": ["li", "flag_li"],
+  "aliases": ["flag_li", "li"],
   "tags": ["liechtenstein", "country", "flag", "flag"]
 }, {
   "emoji": "🏈",
@@ -6761,7 +6761,7 @@
 }, {
   "emoji": "🖖🏾",
   "description": "",
-  "aliases": ["raised_hand_with_part_between_middle_and_ring_fingers_tone4", "vulcan_tone4"],
+  "aliases": ["vulcan_tone4", "raised_hand_with_part_between_middle_and_ring_fingers_tone4"],
   "tags": ["raised", "hand", "with", "part", "between", "middle", "and", "ring", "fingers", "tone", "4"]
 }, {
   "emoji": "🎪",
@@ -6831,7 +6831,7 @@
 }, {
   "emoji": "🏎",
   "description": "",
-  "aliases": ["racing_car", "race_car"],
+  "aliases": ["race_car", "racing_car"],
   "tags": ["racing", "car", "transportation", "car"]
 }, {
   "emoji": "🏵",
@@ -6841,12 +6841,12 @@
 }, {
   "emoji": "🇶🇦",
   "description": "",
-  "aliases": ["qa", "flag_qa"],
+  "aliases": ["flag_qa", "qa"],
   "tags": ["qatar", "country", "flag", "flag"]
 }, {
   "emoji": "🖍",
   "description": "",
-  "aliases": ["lower_left_crayon", "crayon"],
+  "aliases": ["crayon", "lower_left_crayon"],
   "tags": ["lower", "left", "crayon", "object", "office", "write"]
 }, {
   "emoji": "🤳🏾",
@@ -6856,7 +6856,7 @@
 }, {
   "emoji": "🇮🇷",
   "description": "",
-  "aliases": ["ir", "flag_ir"],
+  "aliases": ["flag_ir", "ir"],
   "tags": ["iran", "country", "flag", "flag"]
 }, {
   "emoji": "🍁",
@@ -6871,17 +6871,17 @@
 }, {
   "emoji": "🇩🇲",
   "description": "",
-  "aliases": ["dm", "flag_dm"],
+  "aliases": ["flag_dm", "dm"],
   "tags": ["dominica", "country", "flag", "flag"]
 }, {
   "emoji": "🛋",
   "description": "",
-  "aliases": ["couch_and_lamp", "couch"],
+  "aliases": ["couch", "couch_and_lamp"],
   "tags": ["couch", "and", "lamp", "object"]
 }, {
   "emoji": "🇳🇨",
   "description": "",
-  "aliases": ["nc", "flag_nc"],
+  "aliases": ["flag_nc", "nc"],
   "tags": ["new", "caledonia", "country", "flag", "flag"]
 }, {
   "emoji": "🐇",
@@ -6896,7 +6896,7 @@
 }, {
   "emoji": "👎🏽",
   "description": "",
-  "aliases": ["-1_tone3", "thumbdown_tone3", "thumbsdown_tone3"],
+  "aliases": ["thumbsdown_tone3", "-1_tone3", "thumbdown_tone3"],
   "tags": ["thumbs", "down", "sign", "tone", "3"]
 }, {
   "emoji": "✒",
@@ -6911,7 +6911,7 @@
 }, {
   "emoji": "🇹🇲",
   "description": "",
-  "aliases": ["turkmenistan", "flag_tm"],
+  "aliases": ["flag_tm", "turkmenistan"],
   "tags": ["turkmenistan", "country", "flag", "flag"]
 }, {
   "emoji": "🐓",
@@ -6976,7 +6976,7 @@
 }, {
   "emoji": "🕵🏼",
   "description": "",
-  "aliases": ["sleuth_or_spy_tone2", "spy_tone2"],
+  "aliases": ["spy_tone2", "sleuth_or_spy_tone2"],
   "tags": ["sleuth", "or", "spy", "tone", "2"]
 }, {
   "emoji": "🍧",
@@ -6986,7 +6986,7 @@
 }, {
   "emoji": "🤢",
   "description": "",
-  "aliases": ["sick", "nauseated_face"],
+  "aliases": ["nauseated_face", "sick"],
   "tags": ["nauseated", "face"]
 }, {
   "emoji": "🇪",
@@ -7021,7 +7021,7 @@
 }, {
   "emoji": "👩❤💋👩",
   "description": "",
-  "aliases": ["couplekiss_ww", "kiss_ww"],
+  "aliases": ["kiss_ww", "couplekiss_ww"],
   "tags": ["kiss", "(woman,woman)", "people", "women", "love", "sex", "lgbt", "lgbt", "lesbian", "lesbian"]
 }, {
   "emoji": "5⃣",
@@ -7036,7 +7036,7 @@
 }, {
   "emoji": "🤸🏽",
   "description": "",
-  "aliases": ["person_doing_cartwheel_tone3", "cartwheel_tone3"],
+  "aliases": ["cartwheel_tone3", "person_doing_cartwheel_tone3"],
   "tags": ["person", "doing", "cartwheel", "tone", "3"]
 }, {
   "emoji": "😩",
@@ -7056,7 +7056,7 @@
 }, {
   "emoji": "🇲🇩",
   "description": "",
-  "aliases": ["md", "flag_md"],
+  "aliases": ["flag_md", "md"],
   "tags": ["moldova", "country", "flag", "flag"]
 }, {
   "emoji": "🎶",
@@ -7066,7 +7066,7 @@
 }, {
   "emoji": "⚛",
   "description": "",
-  "aliases": ["atom_symbol", "atom"],
+  "aliases": ["atom", "atom_symbol"],
   "tags": ["atom", "symbol", "symbol", "science"]
 }, {
   "emoji": "💅",
@@ -7081,7 +7081,7 @@
 }, {
   "emoji": "🕺",
   "description": "",
-  "aliases": ["male_dancer", "man_dancing"],
+  "aliases": ["man_dancing", "male_dancer"],
   "tags": ["man", "dancing"]
 }, {
   "emoji": "💆🏼",
@@ -7111,17 +7111,17 @@
 }, {
   "emoji": "🇿🇼",
   "description": "",
-  "aliases": ["zw", "flag_zw"],
+  "aliases": ["flag_zw", "zw"],
   "tags": ["zimbabwe", "country", "flag", "flag"]
 }, {
   "emoji": "🥙",
   "description": "",
-  "aliases": ["stuffed_pita", "stuffed_flatbread"],
+  "aliases": ["stuffed_flatbread", "stuffed_pita"],
   "tags": ["stuffed", "flatbread"]
 }, {
   "emoji": "🇸🇲",
   "description": "",
-  "aliases": ["sm", "flag_sm"],
+  "aliases": ["flag_sm", "sm"],
   "tags": ["san", "marino", "country", "flag", "flag"]
 }, {
   "emoji": "🤳",
@@ -7141,17 +7141,17 @@
 }, {
   "emoji": "🇻🇬",
   "description": "",
-  "aliases": ["vg", "flag_vg"],
+  "aliases": ["flag_vg", "vg"],
   "tags": ["british", "virgin", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "🦄",
   "description": "",
-  "aliases": ["unicorn_face", "unicorn"],
+  "aliases": ["unicorn", "unicorn_face"],
   "tags": ["unicorn", "face", "animal", "animal"]
 }, {
   "emoji": "🥘",
   "description": "",
-  "aliases": ["paella", "shallow_pan_of_food"],
+  "aliases": ["shallow_pan_of_food", "paella"],
   "tags": ["shallow", "pan", "of", "food", "pan", "of", "food"]
 }, {
   "emoji": "🎅🏾",
@@ -7181,7 +7181,7 @@
 }, {
   "emoji": "🇸🇾",
   "description": "",
-  "aliases": ["sy", "flag_sy"],
+  "aliases": ["flag_sy", "sy"],
   "tags": ["syria", "country", "flag", "flag"]
 }, {
   "emoji": "📍",
@@ -7196,7 +7196,7 @@
 }, {
   "emoji": "🇪🇺",
   "description": "",
-  "aliases": ["eu", "flag_eu"],
+  "aliases": ["flag_eu", "eu"],
   "tags": ["european", "union", "country", "flag", "flag"]
 }, {
   "emoji": "👲🏻",
@@ -7226,7 +7226,7 @@
 }, {
   "emoji": "🇨🇱",
   "description": "",
-  "aliases": ["chile", "flag_cl"],
+  "aliases": ["flag_cl", "chile"],
   "tags": ["chile", "country", "flag", "flag"]
 }, {
   "emoji": "😊",
@@ -7251,12 +7251,12 @@
 }, {
   "emoji": "🇲🇺",
   "description": "",
-  "aliases": ["mu", "flag_mu"],
+  "aliases": ["flag_mu", "mu"],
   "tags": ["mauritius", "country", "flag", "flag"]
 }, {
   "emoji": "👵🏾",
   "description": "",
-  "aliases": ["grandma_tone4", "older_woman_tone4"],
+  "aliases": ["older_woman_tone4", "grandma_tone4"],
   "tags": ["older", "woman", "tone", "4"]
 }, {
   "emoji": "🍕",
@@ -7271,7 +7271,7 @@
 }, {
   "emoji": "🇹🇿",
   "description": "",
-  "aliases": ["tz", "flag_tz"],
+  "aliases": ["flag_tz", "tz"],
   "tags": ["tanzania", "country", "flag", "flag"]
 }, {
   "emoji": "🏟",
@@ -7281,7 +7281,7 @@
 }, {
   "emoji": "🥝",
   "description": "",
-  "aliases": ["kiwifruit", "kiwi"],
+  "aliases": ["kiwi", "kiwifruit"],
   "tags": ["kiwifruit"]
 }, {
   "emoji": "⛪",
@@ -7291,7 +7291,7 @@
 }, {
   "emoji": "🍮",
   "description": "",
-  "aliases": ["pudding", "flan", "custard"],
+  "aliases": ["custard", "pudding", "flan"],
   "tags": ["custard", "food"]
 }, {
   "emoji": "🆗",
@@ -7311,7 +7311,7 @@
 }, {
   "emoji": "🇬🇧",
   "description": "",
-  "aliases": ["gb", "flag_gb"],
+  "aliases": ["flag_gb", "gb"],
   "tags": ["great", "britain", "country", "flag", "flag"]
 }, {
   "emoji": "ℹ",
@@ -7341,12 +7341,12 @@
 }, {
   "emoji": "🇰🇲",
   "description": "",
-  "aliases": ["km", "flag_km"],
+  "aliases": ["flag_km", "km"],
   "tags": ["the", "comoros", "country", "flag", "flag"]
 }, {
   "emoji": "🤞🏽",
   "description": "",
-  "aliases": ["hand_with_index_and_middle_fingers_crossed_tone3", "fingers_crossed_tone3"],
+  "aliases": ["fingers_crossed_tone3", "hand_with_index_and_middle_fingers_crossed_tone3"],
   "tags": ["hand", "with", "index", "and", "middle", "fingers", "crossed", "tone", "3"]
 }, {
   "emoji": "🌋",
@@ -7381,7 +7381,7 @@
 }, {
   "emoji": "🇹🇦",
   "description": "",
-  "aliases": ["ta", "flag_ta"],
+  "aliases": ["flag_ta", "ta"],
   "tags": ["tristan", "da", "cunha", "country", "flag", "flag"]
 }, {
   "emoji": "🉐",
@@ -7391,12 +7391,12 @@
 }, {
   "emoji": "🤰🏽",
   "description": "",
-  "aliases": ["expecting_woman_tone3", "pregnant_woman_tone3"],
+  "aliases": ["pregnant_woman_tone3", "expecting_woman_tone3"],
   "tags": ["pregnant", "woman", "tone", "3"]
 }, {
   "emoji": "🤵🏽",
   "description": "",
-  "aliases": ["tuxedo_tone3", "man_in_tuxedo_tone3"],
+  "aliases": ["man_in_tuxedo_tone3", "tuxedo_tone3"],
   "tags": ["man", "in", "tuxedo", "tone", "3"]
 }, {
   "emoji": "🔀",
@@ -7406,7 +7406,7 @@
 }, {
   "emoji": "🤥",
   "description": "",
-  "aliases": ["liar", "lying_face"],
+  "aliases": ["lying_face", "liar"],
   "tags": ["lying", "face"]
 }, {
   "emoji": "💫",
@@ -7426,7 +7426,7 @@
 }, {
   "emoji": "🤦🏻",
   "description": "",
-  "aliases": ["facepalm_tone1", "face_palm_tone1"],
+  "aliases": ["face_palm_tone1", "facepalm_tone1"],
   "tags": ["face", "palm", "tone", "1"]
 }, {
   "emoji": "🍐",
@@ -7446,7 +7446,7 @@
 }, {
   "emoji": "🇫🇷",
   "description": "",
-  "aliases": ["fr", "flag_fr"],
+  "aliases": ["flag_fr", "fr"],
   "tags": ["france", "country", "flag", "flag"]
 }, {
   "emoji": "👕",
@@ -7476,12 +7476,12 @@
 }, {
   "emoji": "🇷🇺",
   "description": "",
-  "aliases": ["ru", "flag_ru"],
+  "aliases": ["flag_ru", "ru"],
   "tags": ["russia", "country", "flag", "flag"]
 }, {
   "emoji": "🇹🇼",
   "description": "",
-  "aliases": ["tw", "flag_tw"],
+  "aliases": ["flag_tw", "tw"],
   "tags": ["the", "republic", "of", "china", "country", "flag", "flag"]
 }, {
   "emoji": "💒",
@@ -7491,7 +7491,7 @@
 }, {
   "emoji": "🇮🇪",
   "description": "",
-  "aliases": ["ie", "flag_ie"],
+  "aliases": ["flag_ie", "ie"],
   "tags": ["ireland", "country", "flag", "flag"]
 }, {
   "emoji": "💔",
@@ -7501,7 +7501,7 @@
 }, {
   "emoji": "⏮",
   "description": "",
-  "aliases": ["previous_track", "track_previous"],
+  "aliases": ["track_previous", "previous_track"],
   "tags": ["black", "left-pointing", "double", "triangle", "with", "vertical", "bar", "arrow", "symbol"]
 }, {
   "emoji": "🎣",
@@ -7516,7 +7516,7 @@
 }, {
   "emoji": "🤶",
   "description": "",
-  "aliases": ["mother_christmas", "mrs_claus"],
+  "aliases": ["mrs_claus", "mother_christmas"],
   "tags": ["mother", "christmas"]
 }, {
   "emoji": "👠",
@@ -7531,7 +7531,7 @@
 }, {
   "emoji": "🇵🇫",
   "description": "",
-  "aliases": ["pf", "flag_pf"],
+  "aliases": ["flag_pf", "pf"],
   "tags": ["french", "polynesia", "country", "flag", "flag"]
 }, {
   "emoji": "🍏",
@@ -7541,7 +7541,7 @@
 }, {
   "emoji": "🤼🏾",
   "description": "",
-  "aliases": ["wrestling_tone4", "wrestlers_tone4"],
+  "aliases": ["wrestlers_tone4", "wrestling_tone4"],
   "tags": ["wrestlers", "tone", "4"]
 }, {
   "emoji": "🔳",
@@ -7551,7 +7551,7 @@
 }, {
   "emoji": "🇻🇨",
   "description": "",
-  "aliases": ["vc", "flag_vc"],
+  "aliases": ["flag_vc", "vc"],
   "tags": ["saint", "vincent", "and", "the", "grenadines", "country", "flag", "flag"]
 }, {
   "emoji": "🔪",
@@ -7571,17 +7571,17 @@
 }, {
   "emoji": "🍽",
   "description": "",
-  "aliases": ["fork_and_knife_with_plate", "fork_knife_plate"],
+  "aliases": ["fork_knife_plate", "fork_and_knife_with_plate"],
   "tags": ["fork", "and", "knife", "with", "plate", "object", "food"]
 }, {
   "emoji": "🤜🏿",
   "description": "",
-  "aliases": ["right_fist_tone5", "right_facing_fist_tone5"],
+  "aliases": ["right_facing_fist_tone5", "right_fist_tone5"],
   "tags": ["right", "facing", "fist", "tone", "5"]
 }, {
   "emoji": "🤦🏾",
   "description": "",
-  "aliases": ["facepalm_tone4", "face_palm_tone4"],
+  "aliases": ["face_palm_tone4", "facepalm_tone4"],
   "tags": ["face", "palm", "tone", "4"]
 }, {
   "emoji": "📿",
@@ -7591,7 +7591,7 @@
 }, {
   "emoji": "🇸🇭",
   "description": "",
-  "aliases": ["sh", "flag_sh"],
+  "aliases": ["flag_sh", "sh"],
   "tags": ["saint", "helena", "country", "flag", "flag"]
 }, {
   "emoji": "📳",
@@ -7621,7 +7621,7 @@
 }, {
   "emoji": "🤣",
   "description": "",
-  "aliases": ["rolling_on_the_floor_laughing", "rofl"],
+  "aliases": ["rofl", "rolling_on_the_floor_laughing"],
   "tags": ["rolling", "on", "the", "floor", "laughing"]
 }, {
   "emoji": "🌉",
@@ -7631,12 +7631,12 @@
 }, {
   "emoji": "🇨🇩",
   "description": "",
-  "aliases": ["congo", "flag_cd"],
+  "aliases": ["flag_cd", "congo"],
   "tags": ["the", "democratic", "republic", "of", "the", "congo", "country", "flag", "flag"]
 }, {
   "emoji": "🇱🇰",
   "description": "",
-  "aliases": ["lk", "flag_lk"],
+  "aliases": ["flag_lk", "lk"],
   "tags": ["sri", "lanka", "country", "flag", "flag"]
 }, {
   "emoji": "☺",
@@ -7666,7 +7666,7 @@
 }, {
   "emoji": "🏝",
   "description": "",
-  "aliases": ["desert_island", "island"],
+  "aliases": ["island", "desert_island"],
   "tags": ["desert", "island", "places", "travel", "vacation", "tropical", "beach", "swim"]
 }, {
   "emoji": "👉🏽",
@@ -7681,7 +7681,7 @@
 }, {
   "emoji": "🇦🇨",
   "description": "",
-  "aliases": ["ac", "flag_ac"],
+  "aliases": ["flag_ac", "ac"],
   "tags": ["ascension", "country", "flag", "flag"]
 }, {
   "emoji": "🎮",
@@ -7731,7 +7731,7 @@
 }, {
   "emoji": "⛹🏻",
   "description": "",
-  "aliases": ["person_with_ball_tone1", "basketball_player_tone1"],
+  "aliases": ["basketball_player_tone1", "person_with_ball_tone1"],
   "tags": ["person", "with", "ball", "tone", "1"]
 }, {
   "emoji": "↙",
@@ -7741,7 +7741,7 @@
 }, {
   "emoji": "🤜🏼",
   "description": "",
-  "aliases": ["right_fist_tone2", "right_facing_fist_tone2"],
+  "aliases": ["right_facing_fist_tone2", "right_fist_tone2"],
   "tags": ["right", "facing", "fist", "tone", "2"]
 }, {
   "emoji": "😛",
@@ -7751,7 +7751,7 @@
 }, {
   "emoji": "🇧🇩",
   "description": "",
-  "aliases": ["bd", "flag_bd"],
+  "aliases": ["flag_bd", "bd"],
   "tags": ["bangladesh", "country", "flag", "flag"]
 }, {
   "emoji": "👊🏻",
@@ -7786,12 +7786,12 @@
 }, {
   "emoji": "🇳🇪",
   "description": "",
-  "aliases": ["ne", "flag_ne"],
+  "aliases": ["flag_ne", "ne"],
   "tags": ["niger", "country", "flag", "flag"]
 }, {
   "emoji": "🤔",
   "description": "",
-  "aliases": ["thinking_face", "thinking"],
+  "aliases": ["thinking", "thinking_face"],
   "tags": ["thinking", "face", "smiley", "thinking", "boys", "night", "boys", "night"]
 }, {
   "emoji": "☔",
@@ -7801,7 +7801,7 @@
 }, {
   "emoji": "🌤",
   "description": "",
-  "aliases": ["white_sun_with_small_cloud", "white_sun_small_cloud"],
+  "aliases": ["white_sun_small_cloud", "white_sun_with_small_cloud"],
   "tags": ["white", "sun", "with", "small", "cloud", "weather", "sky", "cloud", "sun"]
 }, {
   "emoji": "🐱",
@@ -7836,12 +7836,12 @@
 }, {
   "emoji": "🖖",
   "description": "",
-  "aliases": ["raised_hand_with_part_between_middle_and_ring_fingers", "vulcan"],
+  "aliases": ["vulcan", "raised_hand_with_part_between_middle_and_ring_fingers"],
   "tags": ["raised", "hand", "with", "part", "between", "middle", "and", "ring", "fingers", "body", "hands", "hi", "diversity", "diversity"]
 }, {
   "emoji": "🇫🇴",
   "description": "",
-  "aliases": ["fo", "flag_fo"],
+  "aliases": ["flag_fo", "fo"],
   "tags": ["faroe", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "👨🏿",
@@ -7866,7 +7866,7 @@
 }, {
   "emoji": "🇧🇻",
   "description": "",
-  "aliases": ["bv", "flag_bv"],
+  "aliases": ["flag_bv", "bv"],
   "tags": ["bouvet", "island", "country", "flag", "flag"]
 }, {
   "emoji": "👼🏾",
@@ -7891,22 +7891,22 @@
 }, {
   "emoji": "🤘",
   "description": "",
-  "aliases": ["sign_of_the_horns", "metal"],
+  "aliases": ["metal", "sign_of_the_horns"],
   "tags": ["sign", "of", "the", "horns", "body", "hands", "hi", "diversity", "diversity", "boys", "night", "boys", "night", "parties", "parties"]
 }, {
   "emoji": "🛎",
   "description": "",
-  "aliases": ["bellhop_bell", "bellhop"],
+  "aliases": ["bellhop", "bellhop_bell"],
   "tags": ["bellhop", "bell", "object"]
 }, {
   "emoji": "🇬🇵",
   "description": "",
-  "aliases": ["gp", "flag_gp"],
+  "aliases": ["flag_gp", "gp"],
   "tags": ["guadeloupe", "country", "flag", "flag"]
 }, {
   "emoji": "⏭",
   "description": "",
-  "aliases": ["next_track", "track_next"],
+  "aliases": ["track_next", "next_track"],
   "tags": ["black", "right-pointing", "double", "triangle", "with", "vertical", "bar", "arrow", "symbol"]
 }, {
   "emoji": "➰",
@@ -7921,7 +7921,7 @@
 }, {
   "emoji": "🇱🇦",
   "description": "",
-  "aliases": ["la", "flag_la"],
+  "aliases": ["flag_la", "la"],
   "tags": ["laos", "country", "flag", "flag"]
 }, {
   "emoji": "🙋🏻",
@@ -7951,12 +7951,12 @@
 }, {
   "emoji": "🇨🇴",
   "description": "",
-  "aliases": ["co", "flag_co"],
+  "aliases": ["flag_co", "co"],
   "tags": ["colombia", "country", "flag", "flag"]
 }, {
   "emoji": "🇸🇧",
   "description": "",
-  "aliases": ["sb", "flag_sb"],
+  "aliases": ["flag_sb", "sb"],
   "tags": ["the", "solomon", "islands", "country", "flag", "flag"]
 }, {
   "emoji": "📩",
@@ -7976,7 +7976,7 @@
 }, {
   "emoji": "🖐🏾",
   "description": "",
-  "aliases": ["raised_hand_with_fingers_splayed_tone4", "hand_splayed_tone4"],
+  "aliases": ["hand_splayed_tone4", "raised_hand_with_fingers_splayed_tone4"],
   "tags": ["raised", "hand", "with", "fingers", "splayed", "tone", "4"]
 }, {
   "emoji": "🐘",
@@ -7986,22 +7986,22 @@
 }, {
   "emoji": "🇬🇫",
   "description": "",
-  "aliases": ["gf", "flag_gf"],
+  "aliases": ["flag_gf", "gf"],
   "tags": ["french", "guiana", "country", "flag", "flag"]
 }, {
   "emoji": "🇱🇧",
   "description": "",
-  "aliases": ["lb", "flag_lb"],
+  "aliases": ["flag_lb", "lb"],
   "tags": ["lebanon", "country", "flag", "flag"]
 }, {
   "emoji": "🖐🏽",
   "description": "",
-  "aliases": ["raised_hand_with_fingers_splayed_tone3", "hand_splayed_tone3"],
+  "aliases": ["hand_splayed_tone3", "raised_hand_with_fingers_splayed_tone3"],
   "tags": ["raised", "hand", "with", "fingers", "splayed", "tone", "3"]
 }, {
   "emoji": "⛹🏾",
   "description": "",
-  "aliases": ["person_with_ball_tone4", "basketball_player_tone4"],
+  "aliases": ["basketball_player_tone4", "person_with_ball_tone4"],
   "tags": ["person", "with", "ball", "tone", "4"]
 }, {
   "emoji": "👨👨👧",
@@ -8016,7 +8016,7 @@
 }, {
   "emoji": "🇪🇨",
   "description": "",
-  "aliases": ["ec", "flag_ec"],
+  "aliases": ["flag_ec", "ec"],
   "tags": ["ecuador", "country", "flag", "flag"]
 }, {
   "emoji": "🔖",
@@ -8031,7 +8031,7 @@
 }, {
   "emoji": "🤦🏿",
   "description": "",
-  "aliases": ["facepalm_tone5", "face_palm_tone5"],
+  "aliases": ["face_palm_tone5", "facepalm_tone5"],
   "tags": ["face", "palm", "tone", "5"]
 }, {
   "emoji": "⛩",
@@ -8061,7 +8061,7 @@
 }, {
   "emoji": "👍🏽",
   "description": "",
-  "aliases": ["+1_tone3", "thumbup_tone3", "thumbsup_tone3"],
+  "aliases": ["thumbsup_tone3", "+1_tone3", "thumbup_tone3"],
   "tags": ["thumbs", "up", "sign", "tone", "3"]
 }, {
   "emoji": "☝🏻",
@@ -8081,17 +8081,17 @@
 }, {
   "emoji": "🤓",
   "description": "",
-  "aliases": ["nerd_face", "nerd"],
+  "aliases": ["nerd", "nerd_face"],
   "tags": ["nerd", "face", "smiley", "glasses"]
 }, {
   "emoji": "🤹🏼",
   "description": "",
-  "aliases": ["juggler_tone2", "juggling_tone2"],
+  "aliases": ["juggling_tone2", "juggler_tone2"],
   "tags": ["juggling", "tone", "2"]
 }, {
   "emoji": "👩❤👩",
   "description": "",
-  "aliases": ["couple_with_heart_ww", "couple_ww"],
+  "aliases": ["couple_ww", "couple_with_heart_ww"],
   "tags": ["couple", "(woman,woman)", "people", "women", "love", "sex", "lgbt", "lgbt"]
 }, {
   "emoji": "🙊",
@@ -8106,12 +8106,12 @@
 }, {
   "emoji": "🖕🏽",
   "description": "",
-  "aliases": ["reversed_hand_with_middle_finger_extended_tone3", "middle_finger_tone3"],
+  "aliases": ["middle_finger_tone3", "reversed_hand_with_middle_finger_extended_tone3"],
   "tags": ["reversed", "hand", "with", "middle", "finger", "extended", "tone", "3"]
 }, {
   "emoji": "🇧🇹",
   "description": "",
-  "aliases": ["bt", "flag_bt"],
+  "aliases": ["flag_bt", "bt"],
   "tags": ["bhutan", "country", "flag", "flag"]
 }, {
   "emoji": "🐙",
@@ -8121,7 +8121,7 @@
 }, {
   "emoji": "🇬🇪",
   "description": "",
-  "aliases": ["ge", "flag_ge"],
+  "aliases": ["flag_ge", "ge"],
   "tags": ["georgia", "country", "flag", "flag"]
 }, {
   "emoji": "🏃🏿",
@@ -8141,7 +8141,7 @@
 }, {
   "emoji": "🕊",
   "description": "",
-  "aliases": ["dove_of_peace", "dove"],
+  "aliases": ["dove", "dove_of_peace"],
   "tags": ["dove", "of", "peace", "animal", "animal"]
 }, {
   "emoji": "🐞",
@@ -8156,17 +8156,17 @@
 }, {
   "emoji": "🥖",
   "description": "",
-  "aliases": ["baguette_bread", "french_bread"],
+  "aliases": ["french_bread", "baguette_bread"],
   "tags": ["baguette", "bread"]
 }, {
   "emoji": "🤙🏿",
   "description": "",
-  "aliases": ["call_me_hand_tone5", "call_me_tone5"],
+  "aliases": ["call_me_tone5", "call_me_hand_tone5"],
   "tags": ["call", "me", "hand", "tone", "5"]
 }, {
   "emoji": "🇲🇱",
   "description": "",
-  "aliases": ["ml", "flag_ml"],
+  "aliases": ["flag_ml", "ml"],
   "tags": ["mali", "country", "flag", "flag"]
 }, {
   "emoji": "🚲",
@@ -8186,22 +8186,22 @@
 }, {
   "emoji": "🇬🇼",
   "description": "",
-  "aliases": ["gw", "flag_gw"],
+  "aliases": ["flag_gw", "gw"],
   "tags": ["guinea-bissau", "country", "flag", "flag"]
 }, {
   "emoji": "🤚🏽",
   "description": "",
-  "aliases": ["back_of_hand_tone3", "raised_back_of_hand_tone3"],
+  "aliases": ["raised_back_of_hand_tone3", "back_of_hand_tone3"],
   "tags": ["raised", "back", "of", "hand", "tone", "3"]
 }, {
   "emoji": "🤛🏾",
   "description": "",
-  "aliases": ["left_fist_tone4", "left_facing_fist_tone4"],
+  "aliases": ["left_facing_fist_tone4", "left_fist_tone4"],
   "tags": ["left", "facing", "fist", "tone", "4"]
 }, {
   "emoji": "👎🏼",
   "description": "",
-  "aliases": ["-1_tone2", "thumbdown_tone2", "thumbsdown_tone2"],
+  "aliases": ["thumbsdown_tone2", "-1_tone2", "thumbdown_tone2"],
   "tags": ["thumbs", "down", "sign", "tone", "2"]
 }, {
   "emoji": "⏺",
@@ -8221,17 +8221,17 @@
 }, {
   "emoji": "🇵🇬",
   "description": "",
-  "aliases": ["pg", "flag_pg"],
+  "aliases": ["flag_pg", "pg"],
   "tags": ["papua", "new", "guinea", "country", "flag", "flag"]
 }, {
   "emoji": "⛹",
   "description": "",
-  "aliases": ["person_with_ball", "basketball_player"],
+  "aliases": ["basketball_player", "person_with_ball"],
   "tags": ["person", "with", "ball", "men", "game", "ball", "sport", "basketball", "diversity", "diversity"]
 }, {
   "emoji": "🏓",
   "description": "",
-  "aliases": ["table_tennis", "ping_pong"],
+  "aliases": ["ping_pong", "table_tennis"],
   "tags": ["table", "tennis", "paddle", "and", "ball", "game", "ball", "sport", "ping", "pong"]
 }, {
   "emoji": "📌",
@@ -8256,7 +8256,7 @@
 }, {
   "emoji": "🇲🇽",
   "description": "",
-  "aliases": ["mx", "flag_mx"],
+  "aliases": ["flag_mx", "mx"],
   "tags": ["mexico", "country", "mexican", "flag", "flag"]
 }, {
   "emoji": "🈳",
@@ -8286,12 +8286,12 @@
 }, {
   "emoji": "🏏",
   "description": "",
-  "aliases": ["cricket_bat_ball", "cricket"],
+  "aliases": ["cricket", "cricket_bat_ball"],
   "tags": ["cricket", "bat", "and", "ball", "ball", "sport", "cricket"]
 }, {
   "emoji": "🌇",
   "description": "",
-  "aliases": ["city_sunrise", "city_sunset"],
+  "aliases": ["city_sunset", "city_sunrise"],
   "tags": ["sunset", "over", "buildings", "places", "building", "sky", "vacation"]
 }, {
   "emoji": "👏🏼",
@@ -8311,7 +8311,7 @@
 }, {
   "emoji": "🤝🏽",
   "description": "",
-  "aliases": ["shaking_hands_tone3", "handshake_tone3"],
+  "aliases": ["handshake_tone3", "shaking_hands_tone3"],
   "tags": ["handshake", "tone", "3"]
 }, {
   "emoji": "👲🏼",
@@ -8321,7 +8321,7 @@
 }, {
   "emoji": "👵🏼",
   "description": "",
-  "aliases": ["grandma_tone2", "older_woman_tone2"],
+  "aliases": ["older_woman_tone2", "grandma_tone2"],
   "tags": ["older", "woman", "tone", "2"]
 }, {
   "emoji": "🚴🏽",
@@ -8331,7 +8331,7 @@
 }, {
   "emoji": "🇹🇩",
   "description": "",
-  "aliases": ["td", "flag_td"],
+  "aliases": ["flag_td", "td"],
   "tags": ["chad", "country", "flag", "flag"]
 }, {
   "emoji": "😿",
@@ -8341,7 +8341,7 @@
 }, {
   "emoji": "🛵",
   "description": "",
-  "aliases": ["motorbike", "motor_scooter"],
+  "aliases": ["motor_scooter", "motorbike"],
   "tags": ["motor", "scooter", "moped"]
 }, {
   "emoji": "🌽",
@@ -8391,7 +8391,7 @@
 }, {
   "emoji": "🖐🏿",
   "description": "",
-  "aliases": ["raised_hand_with_fingers_splayed_tone5", "hand_splayed_tone5"],
+  "aliases": ["hand_splayed_tone5", "raised_hand_with_fingers_splayed_tone5"],
   "tags": ["raised", "hand", "with", "fingers", "splayed", "tone", "5"]
 }, {
   "emoji": "💷",
@@ -8401,7 +8401,7 @@
 }, {
   "emoji": "🌦",
   "description": "",
-  "aliases": ["white_sun_behind_cloud_with_rain", "white_sun_rain_cloud"],
+  "aliases": ["white_sun_rain_cloud", "white_sun_behind_cloud_with_rain"],
   "tags": ["white", "sun", "behind", "cloud", "with", "rain", "weather", "sky", "cloud", "cold", "rain", "sun"]
 }, {
   "emoji": "💋",
@@ -8426,7 +8426,7 @@
 }, {
   "emoji": "🇵🇪",
   "description": "",
-  "aliases": ["pe", "flag_pe"],
+  "aliases": ["flag_pe", "pe"],
   "tags": ["peru", "country", "flag", "flag"]
 }, {
   "emoji": "🙎🏾",
@@ -8446,12 +8446,12 @@
 }, {
   "emoji": "🇻🇺",
   "description": "",
-  "aliases": ["vu", "flag_vu"],
+  "aliases": ["flag_vu", "vu"],
   "tags": ["vanuatu", "country", "flag", "flag"]
 }, {
   "emoji": "🦊",
   "description": "",
-  "aliases": ["fox_face", "fox"],
+  "aliases": ["fox", "fox_face"],
   "tags": ["fox", "face"]
 }, {
   "emoji": "🏰",
@@ -8461,7 +8461,7 @@
 }, {
   "emoji": "🇦🇼",
   "description": "",
-  "aliases": ["aw", "flag_aw"],
+  "aliases": ["flag_aw", "aw"],
   "tags": ["aruba", "country", "flag", "flag"]
 }, {
   "emoji": "▫",
@@ -8471,12 +8471,12 @@
 }, {
   "emoji": "🇬🇸",
   "description": "",
-  "aliases": ["gs", "flag_gs"],
+  "aliases": ["flag_gs", "gs"],
   "tags": ["south", "georgia", "country", "flag", "flag"]
 }, {
   "emoji": "🤘🏽",
   "description": "",
-  "aliases": ["sign_of_the_horns_tone3", "metal_tone3"],
+  "aliases": ["metal_tone3", "sign_of_the_horns_tone3"],
   "tags": ["sign", "of", "the", "horns", "tone", "3"]
 }, {
   "emoji": "✌🏼",
@@ -8486,12 +8486,12 @@
 }, {
   "emoji": "🛒",
   "description": "",
-  "aliases": ["shopping_trolley", "shopping_cart"],
+  "aliases": ["shopping_cart", "shopping_trolley"],
   "tags": ["shopping", "trolley"]
 }, {
   "emoji": "🇧🇮",
   "description": "",
-  "aliases": ["bi", "flag_bi"],
+  "aliases": ["flag_bi", "bi"],
   "tags": ["burundi", "country", "flag", "flag"]
 }, {
   "emoji": "🚞",
@@ -8511,17 +8511,17 @@
 }, {
   "emoji": "🇨🇽",
   "description": "",
-  "aliases": ["cx", "flag_cx"],
+  "aliases": ["flag_cx", "cx"],
   "tags": ["christmas", "island", "country", "flag", "flag"]
 }, {
   "emoji": "🕵🏽",
   "description": "",
-  "aliases": ["sleuth_or_spy_tone3", "spy_tone3"],
+  "aliases": ["spy_tone3", "sleuth_or_spy_tone3"],
   "tags": ["sleuth", "or", "spy", "tone", "3"]
 }, {
   "emoji": "🤼🏿",
   "description": "",
-  "aliases": ["wrestling_tone5", "wrestlers_tone5"],
+  "aliases": ["wrestlers_tone5", "wrestling_tone5"],
   "tags": ["wrestlers", "tone", "5"]
 }, {
   "emoji": "🌕",
@@ -8606,7 +8606,7 @@
 }, {
   "emoji": "🖖🏽",
   "description": "",
-  "aliases": ["raised_hand_with_part_between_middle_and_ring_fingers_tone3", "vulcan_tone3"],
+  "aliases": ["vulcan_tone3", "raised_hand_with_part_between_middle_and_ring_fingers_tone3"],
   "tags": ["raised", "hand", "with", "part", "between", "middle", "and", "ring", "fingers", "tone", "3"]
 }, {
   "emoji": "📱",
@@ -8651,12 +8651,12 @@
 }, {
   "emoji": "🇦🇫",
   "description": "",
-  "aliases": ["af", "flag_af"],
+  "aliases": ["flag_af", "af"],
   "tags": ["afghanistan", "country", "flag", "flag"]
 }, {
   "emoji": "🇰🇷",
   "description": "",
-  "aliases": ["kr", "flag_kr"],
+  "aliases": ["flag_kr", "kr"],
   "tags": ["korea", "country", "flag", "flag"]
 }, {
   "emoji": "💚",
@@ -8666,7 +8666,7 @@
 }, {
   "emoji": "⏲",
   "description": "",
-  "aliases": ["timer_clock", "timer"],
+  "aliases": ["timer", "timer_clock"],
   "tags": ["timer", "clock", "object", "time"]
 }, {
   "emoji": "🚻",
@@ -8681,7 +8681,7 @@
 }, {
   "emoji": "🤧",
   "description": "",
-  "aliases": ["sneeze", "sneezing_face"],
+  "aliases": ["sneezing_face", "sneeze"],
   "tags": ["sneezing", "face"]
 }, {
   "emoji": "✳",
@@ -8696,7 +8696,7 @@
 }, {
   "emoji": "🏖",
   "description": "",
-  "aliases": ["beach_with_umbrella", "beach"],
+  "aliases": ["beach", "beach_with_umbrella"],
   "tags": ["beach", "with", "umbrella", "places", "travel", "vacation", "tropical", "beach", "swim"]
 }, {
   "emoji": "🔏",
@@ -8716,7 +8716,7 @@
 }, {
   "emoji": "🤶🏾",
   "description": "",
-  "aliases": ["mother_christmas_tone4", "mrs_claus_tone4"],
+  "aliases": ["mrs_claus_tone4", "mother_christmas_tone4"],
   "tags": ["mother", "christmas", "tone", "4"]
 }, {
   "emoji": "✊🏿",
@@ -8756,7 +8756,7 @@
 }, {
   "emoji": "🤠",
   "description": "",
-  "aliases": ["face_with_cowboy_hat", "cowboy"],
+  "aliases": ["cowboy", "face_with_cowboy_hat"],
   "tags": ["face", "with", "cowboy", "hat"]
 }, {
   "emoji": "💎",
@@ -8791,7 +8791,7 @@
 }, {
   "emoji": "🇸🇮",
   "description": "",
-  "aliases": ["si", "flag_si"],
+  "aliases": ["flag_si", "si"],
   "tags": ["slovenia", "country", "flag", "flag"]
 }, {
   "emoji": "🆓",
@@ -8851,7 +8851,7 @@
 }, {
   "emoji": "🇲🇨",
   "description": "",
-  "aliases": ["mc", "flag_mc"],
+  "aliases": ["flag_mc", "mc"],
   "tags": ["monaco", "country", "flag", "flag"]
 }, {
   "emoji": "🏊",
@@ -8861,7 +8861,7 @@
 }, {
   "emoji": "🏚",
   "description": "",
-  "aliases": ["derelict_house_building", "house_abandoned"],
+  "aliases": ["house_abandoned", "derelict_house_building"],
   "tags": ["derelict", "house", "building", "places", "building", "house"]
 }, {
   "emoji": "⏪",
@@ -8876,7 +8876,7 @@
 }, {
   "emoji": "🇱🇸",
   "description": "",
-  "aliases": ["ls", "flag_ls"],
+  "aliases": ["flag_ls", "ls"],
   "tags": ["lesotho", "country", "flag", "flag"]
 }, {
   "emoji": "🔴",
@@ -8891,7 +8891,7 @@
 }, {
   "emoji": "🗃",
   "description": "",
-  "aliases": ["card_file_box", "card_box"],
+  "aliases": ["card_box", "card_file_box"],
   "tags": ["card", "file", "box", "object", "work", "office"]
 }, {
   "emoji": "🛀",
@@ -8906,7 +8906,7 @@
 }, {
   "emoji": "🗳",
   "description": "",
-  "aliases": ["ballot_box_with_ballot", "ballot_box"],
+  "aliases": ["ballot_box", "ballot_box_with_ballot"],
   "tags": ["ballot", "box", "with", "ballot", "object", "office"]
 }, {
   "emoji": "🦃",
@@ -8931,7 +8931,7 @@
 }, {
   "emoji": "🕺🏻",
   "description": "",
-  "aliases": ["male_dancer_tone1", "man_dancing_tone1"],
+  "aliases": ["man_dancing_tone1", "male_dancer_tone1"],
   "tags": ["man", "dancing", "tone", "1"]
 }, {
   "emoji": "📟",
@@ -8941,7 +8941,7 @@
 }, {
   "emoji": "💩",
   "description": "",
-  "aliases": ["shit", "hankey", "poo", "poop"],
+  "aliases": ["poop", "shit", "hankey", "poo"],
   "tags": ["pile", "of", "poo", "bathroom", "shit", "sol", "sol", "diarrhea", "diarrhea"]
 }, {
   "emoji": "📮",
@@ -8951,7 +8951,7 @@
 }, {
   "emoji": "🖼",
   "description": "",
-  "aliases": ["frame_with_picture", "frame_photo"],
+  "aliases": ["frame_photo", "frame_with_picture"],
   "tags": ["frame", "with", "picture", "travel", "vacation"]
 }, {
   "emoji": "🇯",
@@ -8986,7 +8986,7 @@
 }, {
   "emoji": "🇧🇱",
   "description": "",
-  "aliases": ["bl", "flag_bl"],
+  "aliases": ["flag_bl", "bl"],
   "tags": ["saint", "barthélemy", "country", "flag", "flag"]
 }, {
   "emoji": "🔮",
@@ -8996,7 +8996,7 @@
 }, {
   "emoji": "🤙",
   "description": "",
-  "aliases": ["call_me_hand", "call_me"],
+  "aliases": ["call_me", "call_me_hand"],
   "tags": ["call", "me", "hand"]
 }, {
   "emoji": "📈",
@@ -9011,7 +9011,7 @@
 }, {
   "emoji": "🇰🇮",
   "description": "",
-  "aliases": ["ki", "flag_ki"],
+  "aliases": ["flag_ki", "ki"],
   "tags": ["kiribati", "country", "flag", "flag"]
 }, {
   "emoji": "🕉",
@@ -9021,7 +9021,7 @@
 }, {
   "emoji": "🛳",
   "description": "",
-  "aliases": ["passenger_ship", "cruise_ship"],
+  "aliases": ["cruise_ship", "passenger_ship"],
   "tags": ["passenger", "ship", "transportation", "travel", "boat", "vacation"]
 }, {
   "emoji": "🚼",
@@ -9031,7 +9031,7 @@
 }, {
   "emoji": "🕺🏾",
   "description": "",
-  "aliases": ["male_dancer_tone4", "man_dancing_tone4"],
+  "aliases": ["man_dancing_tone4", "male_dancer_tone4"],
   "tags": ["man", "dancing", "tone", "4"]
 }, {
   "emoji": "🔌",
@@ -9061,7 +9061,7 @@
 }, {
   "emoji": "🤡",
   "description": "",
-  "aliases": ["clown_face", "clown"],
+  "aliases": ["clown", "clown_face"],
   "tags": ["clown", "face"]
 }, {
   "emoji": "💴",
