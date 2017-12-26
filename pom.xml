@@ -4,7 +4,7 @@
 
     <groupId>com.vdurmont</groupId>
     <artifactId>emoji-java</artifactId>
-    <version>3.1.3-emojione</version>
+    <version>3.1.3-emojione-20171226</version>
     <packaging>jar</packaging>
 
     <name>emoji-java</name>
@@ -71,7 +71,7 @@
                     <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory> <!-- matches distribution management repository url above -->
                     <branch>refs/heads/mvn-repo</branch>                       <!-- remote branch name -->
                     <includes><include>**/*</include></includes>
-                    <repositoryName>emoji-java</repositoryName>      <!-- github repo name -->
+                    <repositoryName>emoji-java-20171226</repositoryName>      <!-- github repo name -->
                     <repositoryOwner>tkqubo</repositoryOwner>    <!-- github username  -->
                 </configuration>
                 <executions>
